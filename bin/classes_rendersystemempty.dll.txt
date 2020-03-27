@@ -1,0 +1,97 @@
+CBaseAppSystem_class_IRenderDeviceMgr_
+CBlendStateCreator: ITSHashConstructor_void_____ptr64_
+CConCommandMemberAccessor_class_CRenderDeviceBase_: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CRenderDeviceBase__1: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CRenderDeviceBase__2: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CTextureManagerBase_: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CTextureManagerBase__1: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CTextureManagerBase__2: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CDefaultKeyValuesErrorSpew: IKeyValuesErrorSpew
+CDepthStencilStateCreator: ITSHashConstructor_void_____ptr64_
+CDeviceFence
+CDeviceFenceBase: CDeviceFence
+CFmtStrN_256__0_
+CFunctor
+CFunctorJob: CThreadedJob_1, CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CFunctorJob_1: CThreadedJob_1, CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CPlaceholderConVar: ConVar_1, ConCommandBase, IConVar
+CPlaceholderConVar_1: ConVar_1, ConCommandBase, IConVar
+CPostConnectCallback
+CRasterizerStateCreator: ITSHashConstructor_void_____ptr64_
+CRefCountServiceBase_1__class_CRefMT_
+CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__
+CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__
+CRenderContextEmpty: IRenderContext
+CRenderDeviceBase: IRenderDevice
+CRenderDeviceEmpty: CRenderDeviceBase, IRenderDevice
+CRenderDeviceMgrBase: CTier2AppSystem_class_IRenderDeviceMgr__0_, CTier1AppSystem_class_IRenderDeviceMgr__0_, CTier0AppSystem_class_IRenderDeviceMgr_, CBaseAppSystem_class_IRenderDeviceMgr_, IRenderDeviceMgr, IAppSystem
+CRenderDeviceMgrEmpty: CRenderDeviceMgrBase, CTier2AppSystem_class_IRenderDeviceMgr__0_, CTier1AppSystem_class_IRenderDeviceMgr__0_, CTier0AppSystem_class_IRenderDeviceMgr_, CBaseAppSystem_class_IRenderDeviceMgr_, IRenderDeviceMgr, IAppSystem
+CRenderPassDesc
+CSchemaInstallCallback: CPostConnectCallback
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_VsInputSignatureElement_t__class_CUtlMemory_struct_VsInputSignatureElement_t__int____struct_VsInputSignatureElement_t_: ISchemaCollectionManipulator
+CSheetHashConstructor: ITSHashConstructor_class_CTextureSequenceRecord_t_
+CSwapChainBase
+CSwapChainEmpty: CSwapChainBase
+CTextureInfoChunkBase
+CTextureManagerBase: IResourceTypeManager, IToolsResourceListener
+CTextureManagerBase_1: IResourceTypeManager, IToolsResourceListener
+CTextureManagerEmpty: CTextureManagerBase_1, IResourceTypeManager, IToolsResourceListener
+CTextureManagerEmpty_1: CTextureManagerBase_1, IResourceTypeManager, IToolsResourceListener
+CThreadedJob: CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CThreadedJob_1: CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CTier0AppSystem_class_IRenderDeviceMgr_
+CTier1AppSystem_class_IRenderDeviceMgr__0_
+CTier2AppSystem_class_IRenderDeviceMgr__0_
+ConCommand: ConCommandBase
+ConCommandBase
+ConVar: ConCommandBase, IConVar
+ConVar_1: ConCommandBase, IConVar
+IAppSystem
+ICommandCallback
+ICommandCompletionCallback
+IConVar
+IKeyValuesErrorSpew
+IRefCounted
+IRenderContext
+IRenderDevice
+IRenderDeviceMgr
+IResourceTypeManager
+ISchemaCollectionManipulator
+ITSHashConstructor_class_CTextureSequenceRecord_t_
+ITSHashConstructor_void_____ptr64_
+IToolsResourceListener
+basic_stringbuf_char__struct_std::char_traits_char___class_allocator_char__: std::basic_streambuf_char__struct_std::char_traits_char__
+basic_stringstream_char__struct_std::char_traits_char___class_allocator_char__: std::basic_iostream_char__struct_std::char_traits_char__, std::basic_istream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_, std::basic_ostream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::_Crt_new_delete
+std::_Facet_base
+std::_Generic_error_category
+std::_Iosb_int_
+std::_Iostream_error_category: std::_Generic_error_category, std::error_category
+std::_Ref_count_base
+std::_Ref_count_obj_alloc_class___ExceptionPtr__struct__StaticAllocator_int__: std::_Ref_count_base
+std::_Ref_count_obj_class___ExceptionPtr_: std::_Ref_count_base
+std::_System_error: std::runtime_error, stdext::exception
+std::bad_alloc: std::exception
+std::bad_exception: std::exception
+std::basic_ios_char__struct_std::char_traits_char__: std::ios_base, std::_Iosb_int_
+std::basic_iostream_char__struct_std::char_traits_char__: std::basic_istream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_, std::basic_ostream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_istream_char__struct_std::char_traits_char__: std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_ostream_char__struct_std::char_traits_char__: std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_streambuf_char__struct_std::char_traits_char__
+std::ctype_base
+std::ctype_char_: std::ctype_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::error_category
+std::exception
+std::ios_base: std::_Iosb_int_
+std::ios_base::failure: std::system_error, std::_System_error, std::runtime_error, stdext::exception
+std::length_error: std::logic_error, std::exception
+std::locale::_Locimp: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::locale::facet
+std::logic_error: std::exception
+std::num_put_char__class_std::ostreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::numpunct_char_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::out_of_range: std::logic_error, std::exception
+std::runtime_error: stdext::exception
+std::system_error
+stdext::exception
+type_info

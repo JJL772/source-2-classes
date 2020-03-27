@@ -1,0 +1,42 @@
+CBaseAppSystem_class_IIMEManager_
+CConCommandMemberAccessor_class_CIMEManager_: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CIMEManager__1: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CIMEManager__2: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CIMENamesManager_: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CIMENamesManager__1: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CIMENamesManager__2: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CIMEManager: CTier2AppSystem_class_IIMEManager__0_, CTier1AppSystem_class_IIMEManager__0_, CTier0AppSystem_class_IIMEManager_, CBaseAppSystem_class_IIMEManager_, IIMEManager, IAppSystem
+CIMENamesManager
+CIMENamesManagerVista: CIMENamesManager, ITfCompartmentEventSink, IUnknown, ITfInputProcessorProfileActivationSink, IUnknown
+CIMENamesManagerVista_1: CIMENamesManager, ITfCompartmentEventSink, IUnknown, ITfInputProcessorProfileActivationSink, IUnknown
+CIMENamesManagerVista_2: CIMENamesManager, ITfCompartmentEventSink, IUnknown, ITfInputProcessorProfileActivationSink, IUnknown
+CIMENamesManagerXP: CIMENamesManager
+CPlaceholderConVar: ConVar_1, ConCommandBase, IConVar
+CPlaceholderConVar_1: ConVar_1, ConCommandBase, IConVar
+CPostConnectCallback
+CSchemaInstallCallback: CPostConnectCallback
+CTSF: ITfThreadMgrEventSink, IUnknown, ITfUIElementSink, IUnknown
+CTSF_1: ITfThreadMgrEventSink, IUnknown, ITfUIElementSink, IUnknown
+CTier0AppSystem_class_IIMEManager_
+CTier1AppSystem_class_IIMEManager__0_
+CTier2AppSystem_class_IIMEManager__0_
+ConCommand: ConCommandBase
+ConCommandBase
+ConVar: ConCommandBase, IConVar
+ConVar_1: ConCommandBase, IConVar
+GFxIMEManagerWin32: IMEManagerBase
+GFxIMEVista: GFxIMEWin32Impl
+GFxIMEWin32Impl
+GFxIMEXP: GFxIMEWin32Impl
+IAppSystem
+ICommandCallback
+ICommandCompletionCallback
+IConVar
+IIMEManager
+IMEManagerBase
+ITfCompartmentEventSink
+ITfInputProcessorProfileActivationSink
+ITfThreadMgrEventSink
+ITfUIElementSink
+IUnknown
+type_info

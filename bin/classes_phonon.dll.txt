@@ -1,0 +1,306 @@
+Concurrency::Context
+Concurrency::IExecutionContext
+Concurrency::IExecutionResource
+Concurrency::IResourceManager
+Concurrency::IScheduler
+Concurrency::ISchedulerProxy
+Concurrency::IThreadProxy
+Concurrency::ITopologyExecutionResource
+Concurrency::ITopologyNode
+Concurrency::IVirtualProcessorRoot
+Concurrency::ScheduleGroup
+Concurrency::Scheduler
+Concurrency::context_self_unblock: std::exception
+Concurrency::context_unblock_unbalanced: std::exception
+Concurrency::details::CacheLocalScheduleGroup: Concurrency::details::ScheduleGroupBase, Concurrency::ScheduleGroup
+Concurrency::details::CacheLocalScheduleGroupSegment: Concurrency::details::ScheduleGroupSegmentBase
+Concurrency::details::CancellationTokenRegistration_TaskProc: Concurrency::details::_CancellationTokenRegistration, Concurrency::details::_RefCounter
+Concurrency::details::ContextBase: Concurrency::Context
+Concurrency::details::ExecutionResource: Concurrency::IExecutionResource
+Concurrency::details::ExternalContextBase: Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::FairScheduleGroup: Concurrency::details::ScheduleGroupBase, Concurrency::ScheduleGroup
+Concurrency::details::FairScheduleGroupSegment: Concurrency::details::ScheduleGroupSegmentBase
+Concurrency::details::FreeThreadProxy: Concurrency::details::ThreadProxy, Concurrency::IThreadProxy
+Concurrency::details::FreeThreadProxyFactory: Concurrency::details::ThreadProxyFactory_class_Concurrency::details::FreeThreadProxy_, Concurrency::details::IThreadProxyFactory
+Concurrency::details::FreeVirtualProcessorRoot: Concurrency::details::VirtualProcessorRoot, Concurrency::IVirtualProcessorRoot, Concurrency::IExecutionResource
+Concurrency::details::GlobalCore::TopologyObject: Concurrency::ITopologyExecutionResource
+Concurrency::details::GlobalNode::TopologyObject: Concurrency::ITopologyNode
+Concurrency::details::IThreadProxyFactory
+Concurrency::details::InternalContextBase: Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::InternalContextBase_1: Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::MultiWaitBlock: Concurrency::details::WaitBlock
+Concurrency::details::RealizedChore: Concurrency::details::_Chore
+Concurrency::details::ResourceManager: Concurrency::IResourceManager
+Concurrency::details::ScheduleGroupBase: Concurrency::ScheduleGroup
+Concurrency::details::ScheduleGroupSegmentBase
+Concurrency::details::SchedulerBase: Concurrency::Scheduler
+Concurrency::details::SchedulerProxy: Concurrency::ISchedulerProxy
+Concurrency::details::SingleWaitBlock: Concurrency::details::WaitBlock
+Concurrency::details::ThreadInternalContext: Concurrency::details::InternalContextBase_1, Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::ThreadInternalContext_1: Concurrency::details::InternalContextBase_1, Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::ThreadProxy: Concurrency::IThreadProxy
+Concurrency::details::ThreadProxyFactory_class_Concurrency::details::FreeThreadProxy_: Concurrency::details::IThreadProxyFactory
+Concurrency::details::ThreadScheduler: Concurrency::IScheduler, Concurrency::details::SchedulerBase, Concurrency::Scheduler
+Concurrency::details::ThreadScheduler_1: Concurrency::IScheduler, Concurrency::details::SchedulerBase, Concurrency::Scheduler
+Concurrency::details::ThreadVirtualProcessor: Concurrency::details::VirtualProcessor
+Concurrency::details::TimedSingleWaitBlock: Concurrency::details::SingleWaitBlock, Concurrency::details::WaitBlock
+Concurrency::details::VirtualProcessor
+Concurrency::details::VirtualProcessorRoot: Concurrency::IVirtualProcessorRoot, Concurrency::IExecutionResource
+Concurrency::details::WaitAllBlock: Concurrency::details::MultiWaitBlock, Concurrency::details::WaitBlock
+Concurrency::details::WaitAnyBlock: Concurrency::details::MultiWaitBlock, Concurrency::details::WaitBlock
+Concurrency::details::WaitBlock
+Concurrency::details::_CancellationTokenRegistration: Concurrency::details::_RefCounter
+Concurrency::details::_Chore
+Concurrency::details::_Interruption_exception: std::exception
+Concurrency::details::_MallocaArrayHolder_class_Concurrency::Context_____ptr64_
+Concurrency::details::_MallocaArrayHolder_class_Concurrency::event_____ptr64_
+Concurrency::details::_RefCounter
+Concurrency::details::stl_condition_variable_concrt: Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_condition_variable_vista: Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_condition_variable_win7: Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_critical_section_concrt: Concurrency::details::stl_critical_section_interface
+Concurrency::details::stl_critical_section_interface
+Concurrency::details::stl_critical_section_vista: Concurrency::details::stl_critical_section_interface
+Concurrency::details::stl_critical_section_win7: Concurrency::details::stl_critical_section_interface
+Concurrency::improper_lock: std::exception
+Concurrency::improper_scheduler_attach: std::exception
+Concurrency::improper_scheduler_reference: std::exception
+Concurrency::invalid_operation: std::exception
+Concurrency::invalid_oversubscribe_operation: std::exception
+Concurrency::invalid_scheduler_policy_key: std::exception
+Concurrency::invalid_scheduler_policy_thread_specification: std::exception
+Concurrency::invalid_scheduler_policy_value: std::exception
+Concurrency::missing_wait: std::exception
+Concurrency::nested_scheduler_missing_detach: std::exception
+Concurrency::scheduler_resource_allocation_error: std::exception
+Concurrency::scheduler_worker_creation_error: Concurrency::scheduler_resource_allocation_error, std::exception
+Concurrency::unsupported_os: std::exception
+D::V__allocator::wstring_convert_class_std::codecvt_utf8_utf16_wchar_t__1114111__0___wchar_t__class_allocator_wchar_t__
+_Func_base_class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_
+_Func_base_class_ipl::Vector3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_2b723dd61e1a0f948a2b86ba794831e6___class_std::allocator_int___class_ipl::Vector3_float___class_Probe_const_____ptr64_: _Func_base_class_ipl::Vector3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_3ad632057102b1a59b556a43e10ece12___class_std::allocator_int___class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_: _Func_base_class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_51e9daddd2da241cfe547d3be517a49e___class_std::allocator_int___class_ipl::Vector3_float___class_Probe_const_____ptr64_: _Func_base_class_ipl::Vector3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_615501ed0651843ff90976a361a95b5e___class_std::allocator_int___class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_: _Func_base_class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_643017bd054885430bf985a05a883ea3___class_std::allocator_int___class_ipl::Vector3_float___class_Probe_const_____ptr64_: _Func_base_class_ipl::Vector3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_770496d2a978a49d096b9276626f4ec2___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_8559b11e9c769d5f828313fd0ed14abf___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_9b30dbb71be390ce5d855dcf4dbb1c70___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_a9375666358c070c37e794e3d319cec6___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_c9d260076f0dbfc6850c5c9921e5926c___class_std::allocator_int___class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_: _Func_base_class_ipl::CoordinateSpace3_float___class_Probe_const_____ptr64_
+_Func_impl_class__lambda_cd215bc6eb6846864141bf34947eed82___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_ea98a166f664d81cf5408a1c85af0910___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_f26a8d0aba8c07039790477653a389af___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_f3de372c67ae9aed1bce7b3e06b7c1e8___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Func_impl_class__lambda_fed19f8301dca9e23c72b1f5e1344263___class_std::allocator_int___void__int__struct_atomic_bool______ptr64_: std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+_Ref_count_obj_alloc_class_ipl::Array_bool__1___class_allocator_class_ipl::Array_bool__1___: std::_Ref_count_base
+_Ref_count_obj_alloc_class_ipl::Array_unsigned_char__1___class_allocator_class_ipl::Array_unsigned_char__1___: std::_Ref_count_base
+_Ref_count_obj_alloc_class_ipl::CoordinateSpace3_float___class_allocator_class_ipl::CoordinateSpace3_float___: std::_Ref_count_base
+__AV___Func_base_IPEAU__RTCScene__PEAU1__K_std__
+__AV___Func_base_XHPEBV__Vector3_M_ipl__PEBV12_HPEBMPEBMPEAEPEAX_std__
+__AV___Func_base_XHPEBV__Vector3_M_ipl__PEBV12_HPEBMPEBMPEAMPEAV12_PEAPEAVMaterial_2_HPEAX_std__
+__AV___Func_base_X__V_std__
+__AV___Func_impl_P6AXHPEBV__Vector3_M_ipl__0HPEBM1PEAMPEAV12_PEAPEAVMaterial_2_HPEAX_ZV__allocator_H_std__XHPEBV12_PEBV12_HPEBMPEBMPEAMPEAV12_PEAPEAV32_HPEAX_std__: __AV___Func_base_XHPEBV__Vector3_M_ipl__PEBV12_HPEBMPEBMPEAMPEAV12_PEAPEAVMaterial_2_HPEAX_std__
+__AV___Func_impl_P6AXXZV__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_P6A_AW4AMF_RESULT__PEAVTANContext_amf__PEAPEAVTANConvolution_3__ZV__allocator_H_std__W41_PEAV23_PEAPEAV43__std__: std::_Func_base_enum_AMF_RESULT__class_amf::TANContext_____ptr64__class_TANConvolution::TANConvolution_____ptr64_____ptr64_
+__AV___Func_impl_P6A_AW4AMF_RESULT__PEA_K_ZV__allocator_H_std__W41_PEA_K_std__: std::_Func_base_enum_AMF_RESULT__unsigned_long_long_unsigned___int64______ptr64_
+__AV___Func_impl_P6A_AW4AMF_RESULT___KPEAPEAVAMFFactory_amf___ZV__allocator_H_std__W41__KPEAPEAV23__std__: std::_Func_base_enum_AMF_RESULT__unsigned_long_long_unsigned___int64___class_amf::AMFFactory_____ptr64_____ptr64_
+__AV___Func_impl_P6A_AW4AMF_RESULT___KPEAPEAVTANContext_amf___ZV__allocator_H_std__W41__KPEAPEAV23__std__: std::_Func_base_enum_AMF_RESULT__unsigned_long_long_unsigned___int64___class_amf::TANContext_____ptr64_____ptr64_
+__AV___LaunchPad_V__unique_ptr_V__tuple_P6AXPEAVSimulationThread_ipl___ZPEAV12__std__U__default_delete_V__tuple_P6AXPEAVSimulationThread_ipl___ZPEAV12__std___2__std___std__: std::_Pad
+__AV___Ref_count_obj_alloc_V__vector_V__CoordinateSpace3_M_ipl__V__allocator_V__CoordinateSpace3_M_ipl___2__std__V__allocator_V__vector_V__CoordinateSpace3_M_ipl__V__allocator_V__CoordinateSpace3_M_ipl___2__std___ipl___std__: std::_Ref_count_base
+ipl::BatchedCPUReflectionSimulator: ipl::ReflectionSimulator
+ipl::CPUReflectionSimulator: ipl::ReflectionSimulator
+ipl::CPUScene
+ipl::CpuEnergyField: ipl::EnergyField
+ipl::CpuImpulseResponse: ipl::ImpulseResponse
+ipl::CustomScene: ipl::CPUScene, ipl::Scene
+ipl::DefaultHRTFMap: ipl::HRTFMap
+ipl::DirectSimulator
+ipl::EmbreeInstancedMesh: ipl::InstancedMesh
+ipl::EmbreeReflectionSimulator: ipl::ReflectionSimulator
+ipl::EmbreeScene: ipl::CPUScene, ipl::Scene
+ipl::EmbreeStaticMesh: ipl::StaticMesh, ipl::SceneObject
+ipl::EnergyField
+ipl::Exception: std::exception
+ipl::FirBatch
+ipl::HRTFMap
+ipl::IReconstructor
+ipl::ImpulseResponse
+ipl::InstancedMesh
+ipl::OpenCLDirectSimulator: ipl::DirectSimulator
+ipl::OpenCLReflectionSimulator: ipl::ReflectionSimulator
+ipl::OpenClEnergyField: ipl::EnergyField
+ipl::OpenClEnergyFieldReconstructor: ipl::IReconstructor
+ipl::OpenClImpulseResponse: ipl::ImpulseResponse
+ipl::PhononFirBatch: ipl::FirBatch
+ipl::PhononScene: ipl::CPUScene, ipl::Scene
+ipl::PhononStaticMesh: ipl::StaticMesh, ipl::SceneObject
+ipl::RadeonRaysScene: ipl::Scene
+ipl::RadeonRaysStaticMesh: ipl::StaticMesh, ipl::SceneObject
+ipl::RealTimeIndirectSimulator
+ipl::Reconstructor: ipl::IReconstructor
+ipl::ReflectionSimulator
+ipl::SOFAHRTFMap: ipl::HRTFMap
+ipl::Scene
+ipl::SceneObject
+ipl::StaticMesh
+ipl::TanFirBatch: ipl::FirBatch
+std::_Crt_new_delete
+std::_Facet_base
+std::_Func_base_bool__class_ipl::Probe_const_____ptr64_
+std::_Func_base_enum_AMF_RESULT__class_amf::TANContext_____ptr64__class_TANConvolution::TANConvolution_____ptr64_____ptr64_
+std::_Func_base_enum_AMF_RESULT__unsigned_long_long_unsigned___int64______ptr64_
+std::_Func_base_enum_AMF_RESULT__unsigned_long_long_unsigned___int64___class_amf::AMFFactory_____ptr64_____ptr64_
+std::_Func_base_enum_AMF_RESULT__unsigned_long_long_unsigned___int64___class_amf::TANContext_____ptr64_____ptr64_
+std::_Func_base_int__struct__TanDeviceCapabilities_____ptr64_____ptr64__int_____ptr64_
+std::_Func_base_long_long___int64___struct___RTCDevice_____ptr64__enum_RTCParameter_
+std::_Func_base_struct___RTCDevice_____ptr64__char_const_____ptr64_
+std::_Func_base_struct___RTCScene_____ptr64__struct___RTCDevice_____ptr64__enum_RTCSceneFlags__enum_RTCAlgorithmFlags_
+std::_Func_base_unsigned_int__struct___RTCScene_____ptr64__enum_RTCGeometryFlags__unsigned_long_long_unsigned___int64___unsigned_long_long_unsigned___int64___unsigned_long_long_unsigned___int64__
+std::_Func_base_void_____ptr64__struct___RTCScene_____ptr64__unsigned_int__enum_RTCBufferType_
+std::_Func_base_void__float_
+std::_Func_base_void__float_const_____ptr64__float_const_____ptr64__float__float__float_____ptr64__float_____ptr64__class_ipl::Material_____ptr64_____ptr64__void_____ptr64_
+std::_Func_base_void__float_const_____ptr64__float_const_____ptr64__float__float__int_____ptr64__void_____ptr64_
+std::_Func_base_void__int__struct_std::atomic_bool______ptr64_
+std::_Func_base_void__struct___RTCDevice_____ptr64_
+std::_Func_base_void__struct___RTCScene_____ptr64_
+std::_Func_base_void__struct___RTCScene_____ptr64__struct_RTCRay_____ptr64_
+std::_Func_base_void__struct___RTCScene_____ptr64__unsigned_int_
+std::_Func_base_void__struct___RTCScene_____ptr64__unsigned_int__enum_RTCBufferType_
+std::_Func_base_void__struct___RTCScene_____ptr64__unsigned_int__enum_RTCMatrixType__float_const_____ptr64__unsigned_long_long_unsigned___int64__
+std::_Func_impl_class__lambda_5305ca715e111a36d759c2c6603b7400___class_std::allocator_int___bool__class_ipl::Probe_const_____ptr64_: std::_Func_base_bool__class_ipl::Probe_const_____ptr64_
+std::_Func_impl_class__lambda_d4ec22cffdd270a240e792ef28a50de8___class_std::allocator_int___bool__class_ipl::Probe_const_____ptr64_: std::_Func_base_bool__class_ipl::Probe_const_____ptr64_
+std::_Func_impl_class__lambda_ea3aa77afae9eff510b539516826a67b___class_std::allocator_int___bool__class_ipl::Probe_const_____ptr64_: std::_Func_base_bool__class_ipl::Probe_const_____ptr64_
+std::_Func_impl_int____cdecl___struct__TanDeviceCapabilities_____ptr64_____ptr64__int_____ptr64___class_std::allocator_int___int__struct_std_____ptr64_____ptr64__int_____ptr64_: std::_Func_base_int__struct__TanDeviceCapabilities_____ptr64_____ptr64__int_____ptr64_
+std::_Func_impl_long_long___int64_____cdecl___struct___RTCDevice_____ptr64__enum_RTCParameter___class_std::allocator_int___long_long___int64___struct_RTCParameter_____ptr64__enum_std_: std::_Func_base_long_long___int64___struct___RTCDevice_____ptr64__enum_RTCParameter_
+std::_Func_impl_struct___RTCDevice_____ptr64____cdecl___char_const_____ptr64___class_std::allocator_int___struct_std_____ptr64__char_const_____ptr64_: std::_Func_base_struct___RTCDevice_____ptr64__char_const_____ptr64_
+std::_Func_impl_struct___RTCScene_____ptr64____cdecl___struct___RTCDevice_____ptr64__enum_RTCSceneFlags__enum_RTCAlgorithmFlags___class_std::allocator_int___struct___RTCDevice_____ptr64__struct_RTCSceneFlags_____ptr64__enum_RTCAlgorithmFlags__enum_std_: std::_Func_base_struct___RTCScene_____ptr64__struct___RTCDevice_____ptr64__enum_RTCSceneFlags__enum_RTCAlgorithmFlags_, std::_Func_base_struct___RTCScene_____ptr64__struct___RTCDevice_____ptr64__enum_RTCSceneFlags__enum_RTCAlgorithmFlags_
+std::_Func_impl_void_____ptr64____cdecl___struct___RTCScene_____ptr64__unsigned_int__enum_RTCBufferType___class_std::allocator_int___void_____ptr64__struct_RTCBufferType_____ptr64__unsigned_int__enum_std_: std::_Func_base_void_____ptr64__struct___RTCScene_____ptr64__unsigned_int__enum_RTCBufferType_
+std::_Func_impl_void____cdecl___float___class_std::allocator_int___void__float_: std::_Func_base_void__float_
+std::_Func_impl_void____cdecl___float_const_____ptr64__float_const_____ptr64__float__float__int_____ptr64__void_____ptr64___class_std::allocator_int___void__float_const_____ptr64__float_const_____ptr64__float__float__int_____ptr64__void_____ptr64_: std::_Func_base_void__float_const_____ptr64__float_const_____ptr64__float__float__int_____ptr64__void_____ptr64_, std::_Func_base_void__float_const_____ptr64__float_const_____ptr64__float__float__int_____ptr64__void_____ptr64_
+std::_Func_impl_void____cdecl___struct___RTCDevice_____ptr64___class_std::allocator_int___void__struct_std_____ptr64_: std::_Func_base_void__struct___RTCDevice_____ptr64_
+std::_Func_impl_void____cdecl___struct___RTCScene_____ptr64___class_std::allocator_int___void__struct_std_____ptr64_: std::_Func_base_void__struct___RTCScene_____ptr64_
+std::_Func_impl_void____cdecl___struct___RTCScene_____ptr64__struct_RTCRay_____ptr64___class_std::allocator_int___void__struct_RTCRay_____ptr64__struct_std_____ptr64_: std::_Func_base_void__struct___RTCScene_____ptr64__struct_RTCRay_____ptr64_
+std::_Func_impl_void____cdecl___struct___RTCScene_____ptr64__unsigned_int___class_std::allocator_int___void__struct_std_____ptr64__unsigned_int_: std::_Func_base_void__struct___RTCScene_____ptr64__unsigned_int_
+std::_Func_impl_void____cdecl___struct___RTCScene_____ptr64__unsigned_int__enum_RTCBufferType___class_std::allocator_int___void__struct_RTCBufferType_____ptr64__unsigned_int__enum_std_: std::_Func_base_void__struct___RTCScene_____ptr64__unsigned_int__enum_RTCBufferType_
+std::_Generic_error_category: std::error_category
+std::_LaunchPad_class_std::unique_ptr_class_std::tuple_class__lambda_1f82965c58cfdd9b5f625ee56a367113___int___struct__lambda_1f82965c58cfdd9b5f625ee56a367113_::default_delete_class_std::tuple_class__lambda_1f82965c58cfdd9b5f625ee56a367113___int____: std::_Pad, std::_Pad
+std::_LaunchPad_class_std::unique_ptr_class_std::tuple_class__lambda_234a446426bd82834636c2f242677577____struct__lambda_234a446426bd82834636c2f242677577_::default_delete_class_std::tuple_class__lambda_234a446426bd82834636c2f242677577_____: std::_Pad
+std::_Mpunct_char_: std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::_Mpunct_unsigned_short_int_: std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::_Mpunct_wchar_t_: std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::_Pad
+std::_Ref_count_base
+std::_Ref_count_class_ipl::sh::Rotation_: std::_Ref_count_base
+std::_Ref_count_del_class_ipl::BakedIndirectSimulator__struct_std::default_delete_class_ipl::BakedIndirectSimulator__: std::_Ref_count_base
+std::_Ref_count_del_class_ipl::DirectSimulator__struct_std::default_delete_class_ipl::DirectSimulator__: std::_Ref_count_base
+std::_Ref_count_del_class_ipl::IReconstructor__struct_std::default_delete_class_ipl::IReconstructor__: std::_Ref_count_base
+std::_Ref_count_del_class_ipl::RealTimeIndirectSimulator__struct_std::default_delete_class_ipl::RealTimeIndirectSimulator__: std::_Ref_count_base
+std::_Ref_count_del_class_ipl::Scene__struct_std::default_delete_class_ipl::Scene__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class___ExceptionPtr__struct__StaticAllocator_int__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::AmbisonicsBinauralEffect__class_AmbisonicsBinauralEffect::allocator_class_ipl::AmbisonicsBinauralEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::AmbisonicsPanningEffect__class_AmbisonicsPanningEffect::allocator_class_ipl::AmbisonicsPanningEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::AmbisonicsRotator__class_AmbisonicsRotator::allocator_class_ipl::AmbisonicsRotator__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::Array_class_ipl::Source__1___class_ipl::allocator_class_ipl::Array_class_ipl::Source__1___: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::Array_class_ipl::Vector3_float___1___class_ipl::allocator_class_ipl::Array_class_ipl::Vector3_float___1___: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::Array_struct_ispc::Source__1___class_ipl::allocator_class_ipl::Array_struct_ispc::Source__1___: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::BakedPathData__class_BakedPathData::allocator_class_ipl::BakedPathData__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::BinauralRenderer__class_BinauralRenderer::allocator_class_ipl::BinauralRenderer__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::ConvolutionEffect__class_ConvolutionEffect::allocator_class_ipl::ConvolutionEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::DirectSoundEffect__class_DirectSoundEffect::allocator_class_ipl::DirectSoundEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::EmbreeInstancedMesh__class_EmbreeInstancedMesh::allocator_class_ipl::EmbreeInstancedMesh__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::EmbreeStaticMesh__class_EmbreeStaticMesh::allocator_class_ipl::EmbreeStaticMesh__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::Environment__class_Environment::allocator_class_ipl::Environment__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::EnvironmentalRenderer__class_EnvironmentalRenderer::allocator_class_ipl::EnvironmentalRenderer__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::JobGraph__class_JobGraph::allocator_class_ipl::JobGraph__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::Job__class_Job::allocator_class_ipl::Job__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::ObjectBasedBinauralEffect__class_ObjectBasedBinauralEffect::allocator_class_ipl::ObjectBasedBinauralEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::OpenClComputeDevice__class_OpenClComputeDevice::allocator_class_ipl::OpenClComputeDevice__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::PanningEffect__class_PanningEffect::allocator_class_ipl::PanningEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::PathEffect__class_PathEffect::allocator_class_ipl::PathEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::PathSimulator__class_PathSimulator::allocator_class_ipl::PathSimulator__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::PhononFirBatch__class_PhononFirBatch::allocator_class_ipl::PhononFirBatch__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::PhononStaticMesh__class_PhononStaticMesh::allocator_class_ipl::PhononStaticMesh__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::ProbeBatch__class_ProbeBatch::allocator_class_ipl::ProbeBatch__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::ProbeBox__class_ProbeBox::allocator_class_ipl::ProbeBox__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::ProbeData__class_ProbeData::allocator_class_ipl::ProbeData__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::ProbeManager__class_ProbeManager::allocator_class_ipl::ProbeManager__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::Probe__class_Probe::allocator_class_ipl::Probe__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::PropagationMedium__class_PropagationMedium::allocator_class_ipl::PropagationMedium__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::RadeonRaysStaticMesh__class_RadeonRaysStaticMesh::allocator_class_ipl::RadeonRaysStaticMesh__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::SimulationData__class_SimulationData::allocator_class_ipl::SimulationData__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::SimulationThread__class_SimulationThread::allocator_class_ipl::SimulationThread__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::TanFirBatch__class_TanFirBatch::allocator_class_ipl::TanFirBatch__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_ipl::VirtualSurroundEffect__class_VirtualSurroundEffect::allocator_class_ipl::VirtualSurroundEffect__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_std::vector_int_____ptr64_____ptr64__class_ipl::allocator_int_____ptr64_____ptr64____class_ipl::allocator_class_std::vector_int_____ptr64_____ptr64__class_ipl::allocator_int_____ptr64_____ptr64____: std::_Ref_count_base
+std::_Ref_count_obj_alloc_class_std::vector_struct_ispc::Source__class_std::allocator_struct_ispc::Source____class_ipl::allocator_class_std::vector_struct_ispc::Source__class_std::allocator_struct_ispc::Source____: std::_Ref_count_base
+std::_Ref_count_obj_alloc_struct_ipl::Context__class_Context::allocator_struct_ipl::Context__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_struct_ispc::CoordinateSpace__class_ipl::allocator_struct_ispc::CoordinateSpace__: std::_Ref_count_base
+std::_Ref_count_obj_alloc_struct_ispc::EmbreeReflectionSimulator__class_ipl::allocator_struct_ispc::EmbreeReflectionSimulator__: std::_Ref_count_base
+std::_Ref_count_obj_class___ExceptionPtr_: std::_Ref_count_base
+std::_System_error: std::runtime_error, std::exception
+std::__non_rtti_object: std::bad_typeid, std::exception
+std::bad_alloc: std::exception
+std::bad_array_new_length: std::bad_alloc, std::exception
+std::bad_cast: std::exception
+std::bad_exception: std::exception
+std::bad_function_call: std::exception
+std::bad_typeid: std::exception
+std::codecvt_base
+std::codecvt_char__char__struct__Mbstatet_: std::codecvt_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::codecvt_unsigned_short_int__char__struct__Mbstatet_: std::codecvt_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::codecvt_utf8_utf16_wchar_t__1114111__0_: std::codecvt_wchar_t__char__struct__Mbstatet_, std::codecvt_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::codecvt_wchar_t__char__struct__Mbstatet_: std::codecvt_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::collate_char_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::collate_unsigned_short_int_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::collate_wchar_t_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::ctype_base
+std::ctype_char_: std::ctype_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::ctype_unsigned_short_int_: std::ctype_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::ctype_wchar_t_: std::ctype_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::error_category
+std::exception
+std::invalid_argument: std::logic_error, std::exception
+std::length_error: std::logic_error, std::exception
+std::locale::_Locimp: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::locale::facet
+std::logic_error: std::exception
+std::messages_base
+std::messages_char_: std::messages_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::messages_unsigned_short_int_: std::messages_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::messages_wchar_t_: std::messages_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::money_base
+std::money_get_char__class_std::istreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::money_get_unsigned_short_int__class_std::istreambuf_iterator_unsigned_short_int__struct_std::char_traits_unsigned_short_int___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::money_get_wchar_t__class_std::istreambuf_iterator_wchar_t__struct_std::char_traits_wchar_t___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::money_put_char__class_std::ostreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::money_put_unsigned_short_int__class_std::ostreambuf_iterator_unsigned_short_int__struct_std::char_traits_unsigned_short_int___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::money_put_wchar_t__class_std::ostreambuf_iterator_wchar_t__struct_std::char_traits_wchar_t___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::moneypunct_char__0_: std::_Mpunct_char_, std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::moneypunct_char__1_: std::_Mpunct_char_, std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::moneypunct_unsigned_short_int__0_: std::_Mpunct_unsigned_short_int_, std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::moneypunct_unsigned_short_int__1_: std::_Mpunct_unsigned_short_int_, std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::moneypunct_wchar_t__0_: std::_Mpunct_wchar_t_, std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::moneypunct_wchar_t__1_: std::_Mpunct_wchar_t_, std::money_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::num_get_char__class_std::istreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::num_get_unsigned_short_int__class_std::istreambuf_iterator_unsigned_short_int__struct_std::char_traits_unsigned_short_int___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::num_get_wchar_t__class_std::istreambuf_iterator_wchar_t__struct_std::char_traits_wchar_t___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::num_put_char__class_std::ostreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::num_put_unsigned_short_int__class_std::ostreambuf_iterator_unsigned_short_int__struct_std::char_traits_unsigned_short_int___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::num_put_wchar_t__class_std::ostreambuf_iterator_wchar_t__struct_std::char_traits_wchar_t___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::numpunct_char_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::numpunct_unsigned_short_int_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::numpunct_wchar_t_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::out_of_range: std::logic_error, std::exception
+std::range_error: std::runtime_error, std::exception
+std::runtime_error: std::exception
+std::system_error: std::_System_error, std::runtime_error, std::exception
+std::time_base
+std::time_get_char__class_std::istreambuf_iterator_char__struct_std::char_traits_char___: std::time_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::time_get_unsigned_short_int__class_std::istreambuf_iterator_unsigned_short_int__struct_std::char_traits_unsigned_short_int___: std::time_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::time_get_wchar_t__class_std::istreambuf_iterator_wchar_t__struct_std::char_traits_wchar_t___: std::time_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::time_put_char__class_std::ostreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::time_put_unsigned_short_int__class_std::ostreambuf_iterator_unsigned_short_int__struct_std::char_traits_unsigned_short_int___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::time_put_wchar_t__class_std::ostreambuf_iterator_wchar_t__struct_std::char_traits_wchar_t___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+type_info

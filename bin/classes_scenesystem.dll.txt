@@ -1,0 +1,311 @@
+AABBoxRasterizer
+AABBoxRasterizerSSE: AABBoxRasterizer, HelperSSE
+AABBoxTesterSSEST: AABBoxRasterizerSSE, AABBoxRasterizer, HelperSSE
+C6FaceSkyboxObject: CSceneObject, IGenericInterface
+CAmbientOcclusionProxySceneObject: CSceneObject, IGenericInterface
+CBaseAppSystem_class_ISceneSystem_
+CBaseAppSystem_class_ISceneUtils_
+CBindlessFastPathSceneObject: CSceneObject, IGenericInterface
+CBindlessFastPathSceneObjectDesc: ISceneObjectDescBase_class_CBindlessFastPathSceneObject_, ISceneObjectDesc, ISceneLightProbeVolumeListener
+CBindlessFastPathSceneObjectDesc_1: ISceneObjectDescBase_class_CBindlessFastPathSceneObject_, ISceneObjectDesc, ISceneLightProbeVolumeListener
+CBlitTextureToRenderTargetLayer: IProceduralLayerRenderer
+CCharacterDecalRenderer: ICharacterDecalRenderer
+CCharacterDecalRenderer::CCharacterDecalSceneObject: CSceneObject, IGenericInterface
+CConCommandMemberAccessor_class_CSceneSystem_: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CSceneSystem__1: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CSceneSystem__2: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CCopySkyLightingPixelsProceduralLayer: IProceduralLayerRenderer
+CCopySkyLightingReadTexturePixelsCallback: IReadTexturePixelsCallback
+CDebugLayerRenderer: IProceduralLayerRenderer
+CDefaultKeyValuesErrorSpew: IKeyValuesErrorSpew
+CEntityMsg: google::protobuf::Message, google::protobuf::MessageLite
+CEnvMapLightObjectDesc: CPointLightObjectDesc, CLightObjectDesc, ISceneObjectDescBase_class_CSceneLightObjectInternal_, ISceneObjectDesc
+CEnvMapSceneObject: CSceneLightObject, CSceneObject, IGenericInterface
+CFilterLayerRenderer: IProceduralLayerRenderer
+CFmtStrN_256__0_
+CFullscreenQuadRenderer: IProceduralLayerRenderer
+CFunctor
+CGenerateMipsProceduralLayer: IProceduralLayerRenderer
+CInputLayoutRegistration_sm_hLayout: CPostConnectCallback
+CLightBinner2: ISceneEnvironmentMapListener, ISceneLightProbeVolumeListener
+CLightBinner2_1: ISceneEnvironmentMapListener, ISceneLightProbeVolumeListener
+CLightBinnerCsgo: CLightBinner2_1, ISceneEnvironmentMapListener, ISceneLightProbeVolumeListener
+CLightBinnerCsgo_1: CLightBinner2_1, ISceneEnvironmentMapListener, ISceneLightProbeVolumeListener
+CLightBinnerVr: CLightBinner2_1, ISceneEnvironmentMapListener, ISceneLightProbeVolumeListener
+CLightBinnerVr_1: CLightBinner2_1, ISceneEnvironmentMapListener, ISceneLightProbeVolumeListener
+CLightObjectDesc
+CLightProbeVolumeObjectDesc: ISceneObjectDescBase_class_CSceneLightProbeVolumeObject_, ISceneObjectDesc
+CMDL: IModelRenderHelper, ISceneAnimatableProceduralBoneTransforms
+CMDL_1: IModelRenderHelper, ISceneAnimatableProceduralBoneTransforms
+CMeshBuilderSceneObject: CSceneObject, IGenericInterface
+CMsgPlayerInfo: google::protobuf::Message, google::protobuf::MessageLite
+CMsgQAngle: google::protobuf::Message, google::protobuf::MessageLite
+CMsgRGBA: google::protobuf::Message, google::protobuf::MessageLite
+CMsgVector: google::protobuf::Message, google::protobuf::MessageLite
+CMsgVector2D: google::protobuf::Message, google::protobuf::MessageLite
+CMsg_CVars: google::protobuf::Message, google::protobuf::MessageLite
+CMsg_CVars_CVar: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_Disconnect: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_NOP: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SetConVar: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SignonState: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SpawnGroup_Load: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SpawnGroup_LoadCompleted: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SpawnGroup_ManifestUpdate: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SpawnGroup_SetCreationTick: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SpawnGroup_Unload: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_SplitScreenUser: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_StringCmd: google::protobuf::Message, google::protobuf::MessageLite
+CNETMsg_Tick: google::protobuf::Message, google::protobuf::MessageLite
+COccluderSceneObject: CSceneObject, IGenericInterface
+CPlaceholderConVar: ConVar_1, ConCommandBase, IConVar
+CPlaceholderConVar_1: ConVar_1, ConCommandBase, IConVar
+CPointLightObjectDesc
+CPostConnectCallback
+CRasterizerOcclusionCuller: IOcclusionCuller
+CRefCountServiceBase_1__class_CRefMT_
+CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__
+CRenderingPipeline
+CRenderingPipelineAlias: CRenderingPipeline, IRenderingPipeline
+CResolveLayerRenderer: IProceduralLayerRenderer
+CSSAOProceduralRenderer: IProceduralLayerRenderer
+CSVCMsgList_GameEvents: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsgList_GameEvents_event_t: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsgList_UserMessages: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsgList_UserMessages_usermsg_t: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsg_GameEvent: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsg_GameEvent_key_t: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsg_GameSessionConfiguration: google::protobuf::Message, google::protobuf::MessageLite
+CSVCMsg_UserMessage: google::protobuf::Message, google::protobuf::MessageLite
+CScalableAORenderer: IProceduralLayerRenderer
+CSceneAnimatableObject: CSceneObject, IGenericInterface
+CSceneDebugTextObject: CSceneObject, IGenericInterface
+CSceneLayer: ISceneLayer
+CSceneLightObject: CSceneObject, IGenericInterface
+CSceneLightObjectInternal: CSceneLightObject, CSceneObject, IGenericInterface
+CSceneLightProbeVolumeObject: CSceneObject, IGenericInterface
+CSceneMonitorObject: CSceneObject, IGenericInterface
+CSceneObject: IGenericInterface
+CSceneSkyBoxObject: CSceneObject, IGenericInterface
+CSceneSystem: CTier3AppSystem_class_ISceneSystem__0_, CTier2AppSystem_class_ISceneSystem__0_, CTier1AppSystem_class_ISceneSystem__0_, CTier0AppSystem_class_ISceneSystem_, CBaseAppSystem_class_ISceneSystem_, ISceneSystem, IAppSystem, CUtlMultiJobProcessor, IMaxSwapChainDimensionsChangedListener
+CSceneSystem_1: CTier3AppSystem_class_ISceneSystem__0_, CTier2AppSystem_class_ISceneSystem__0_, CTier1AppSystem_class_ISceneSystem__0_, CTier0AppSystem_class_ISceneSystem_, CBaseAppSystem_class_ISceneSystem_, ISceneSystem, IAppSystem, CUtlMultiJobProcessor, IMaxSwapChainDimensionsChangedListener
+CSceneSystem_2: CTier3AppSystem_class_ISceneSystem__0_, CTier2AppSystem_class_ISceneSystem__0_, CTier1AppSystem_class_ISceneSystem__0_, CTier0AppSystem_class_ISceneSystem_, CBaseAppSystem_class_ISceneSystem_, ISceneSystem, IAppSystem, CUtlMultiJobProcessor, IMaxSwapChainDimensionsChangedListener
+CSceneUtils: CTier3AppSystem_class_ISceneUtils__0_, CTier2AppSystem_class_ISceneUtils__0_, CTier1AppSystem_class_ISceneUtils__0_, CTier0AppSystem_class_ISceneUtils_, CBaseAppSystem_class_ISceneUtils_, ISceneUtils, IAppSystem
+CSceneView: ISceneView
+CSceneViewDebugOverlays: ISceneViewDebugOverlays
+CSceneWorld: ISceneWorld
+CSchemaInstallCallback: CPostConnectCallback
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CSSDSEndFrameViewInfo__class_CUtlMemory_class_CSSDSEndFrameViewInfo__int____class_CSSDSEndFrameViewInfo_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CUtlString__class_CUtlMemory_class_CUtlString__int____class_CUtlString_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_matrix3x4a_t__class_CUtlMemory_class_matrix3x4a_t__int____class_matrix3x4a_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_float__class_CUtlMemory_float__int____float_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_AnimationDecodeDebugDumpElement_t__class_CUtlMemory_struct_AnimationDecodeDebugDumpElement_t__int____struct_AnimationDecodeDebugDumpElement_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_CSSDSMsg_ViewTarget__class_CUtlMemory_struct_CSSDSMsg_ViewTarget__int____struct_CSSDSMsg_ViewTarget_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_unsigned_int__class_CUtlMemory_unsigned_int__int____unsigned_int_: ISchemaCollectionManipulator
+CShadowAtlas: ISceneLightListener
+CSimplePostProcessingLayerRenderer: IProceduralLayerRenderer
+CSunLightManager: ISceneObjectDescBase_class_CSceneLightObjectInternal_, ISceneObjectDesc
+CTextureBarrierLayerRenderer: IProceduralLayerRenderer
+CTextureDisplayLayerRenderer: IProceduralLayerRenderer
+CTier0AppSystem_class_ISceneSystem_
+CTier0AppSystem_class_ISceneUtils_
+CTier1AppSystem_class_ISceneSystem__0_
+CTier1AppSystem_class_ISceneUtils__0_
+CTier2AppSystem_class_ISceneSystem__0_
+CTier2AppSystem_class_ISceneUtils__0_
+CTier3AppSystem_class_ISceneSystem__0_: CTier2AppSystem_class_ISceneSystem__0_, CTier1AppSystem_class_ISceneSystem__0_, CTier0AppSystem_class_ISceneSystem_, CBaseAppSystem_class_ISceneSystem_, ISceneSystem, IAppSystem
+CTier3AppSystem_class_ISceneUtils__0_
+CTonemapRenderer: IProceduralLayerRenderer
+CTonemapSystem: ITonemapSystem
+CUtlMultiJobProcessor
+CVolumetricFog: IVolumetricFog
+CVolumetricFogClipmapRenderer: IProceduralLayerRenderer
+CVolumetricFogRenderer: IProceduralLayerRenderer
+ConCommand: ConCommandBase
+ConCommandBase
+ConVar: ConCommandBase, IConVar
+ConVar_1: ConCommandBase, IConVar
+DepthBufferRasterizer
+DepthBufferRasterizerSSE: DepthBufferRasterizer, HelperSSE
+DepthBufferRasterizerSSEMT: DepthBufferRasterizerSSE, DepthBufferRasterizer, HelperSSE
+DepthBufferRasterizerSSEST: DepthBufferRasterizerSSE, DepthBufferRasterizer, HelperSSE
+HelperSSE
+IAppSystem
+ICharacterDecalRenderer
+ICommandCallback
+ICommandCompletionCallback
+IConVar
+IGenericInterface
+IKeyValuesErrorSpew
+IMaxSwapChainDimensionsChangedListener
+IModelRenderHelper
+IOcclusionCuller
+IProceduralLayerRenderer
+IReadTexturePixelsCallback
+IRefCounted
+IRenderingPipeline
+ISceneAnimatableProceduralBoneTransforms
+ISceneEnvironmentMapListener
+ISceneLayer
+ISceneLightListener
+ISceneLightProbeVolumeListener
+ISceneObjectDesc
+ISceneObjectDescBase_class_CBindlessFastPathSceneObject_
+ISceneObjectDescBase_class_CSceneLightObjectInternal_
+ISceneObjectDescBase_class_CSceneLightProbeVolumeObject_
+ISceneSystem
+ISceneUtils
+ISceneView
+ISceneViewDebugOverlays
+ISceneWorld
+ISchemaCollectionManipulator
+ITonemapSystem
+IVolumetricFog
+__AV__CFunctor3_P6AXPEAVCSceneView__PEAVCSceneLayer___N_ZPEAV1_PEAV2__NV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT________: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CFunctor3_P6AXPEAVCSceneView__PEAVCSceneLayer___N_ZPEAV1_PEAV2__NV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT_________1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAVCSceneSystem__P81_EAAXPEAVCSceneView___ZPEAV2_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAVCSceneSystem__P81_EAAXPEAVCSceneView___ZPEAV2_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAV__CParallelProcessorAbstract_V__CParallelProcessor_PEAVCSceneObject__V__CFuncJobItemProcessor_PEAVCSceneObject_____00____P81_EAAXH_ZHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCountServiceBase_1__class_CRefMT_, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAV__CParallelProcessorAbstract_V__CParallelProcessor_PEAVCSceneObject__V__CFuncJobItemProcessor_PEAVCSceneObject_____00____P81_EAAXH_ZHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCountServiceBase_1__class_CRefMT_, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor5_PEAVCSceneSystem__P81_EAAXPEAVCSceneView__HH_K1_ZPEAV2_HHHHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor5_PEAVCSceneSystem__P81_EAAXPEAVCSceneView__HH_K1_ZPEAV2_HHHHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor6_PEAVCSOAContainer__P81_EAAXHHHHHT__m128___ZHHHHHT2_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor6_PEAVCSOAContainer__P81_EAAXHHHHHT__m128___ZHHHHHT2_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__RepeatedPtrFieldWrapper_V__basic_string_DU__char_traits_D_std__V__allocator_D_2__std___internal_protobuf_google__
+basic_ostringstream_char__struct_std::char_traits_char___class_allocator_char__: std::basic_ostream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+basic_stringbuf_char__struct_std::char_traits_char___class_allocator_char__: std::basic_streambuf_char__struct_std::char_traits_char__
+google::protobuf::Closure
+google::protobuf::DescriptorBuilder::OptionInterpreter::AggregateOptionFinder: google::protobuf::TextFormat::Finder
+google::protobuf::DescriptorDatabase
+google::protobuf::DescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::DescriptorProto_ExtensionRange: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::DescriptorProto_ReservedRange: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::DynamicMessage: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::DynamicMessageFactory: google::protobuf::MessageFactory
+google::protobuf::EncodedDescriptorDatabase: google::protobuf::DescriptorDatabase
+google::protobuf::EnumDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::EnumDescriptorProto_EnumReservedRange: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::EnumOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::EnumValueDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::EnumValueOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::ExtensionRangeOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::FatalException: std::exception
+google::protobuf::FieldDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::FieldOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::FileDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::FileDescriptorSet: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::FileOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::GeneratedCodeInfo: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::GeneratedCodeInfo_Annotation: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::Message
+google::protobuf::MessageFactory
+google::protobuf::MessageLite
+google::protobuf::MessageOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::MethodDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::MethodOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::OneofDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::OneofOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::Reflection
+google::protobuf::ServiceDescriptorProto: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::ServiceOptions: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::SourceCodeInfo: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::SourceCodeInfo_Location: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::TextFormat::BaseTextGenerator
+google::protobuf::TextFormat::FastFieldValuePrinter
+google::protobuf::TextFormat::Finder
+google::protobuf::TextFormat::Parser::ParserImpl::ParserErrorCollector: google::protobuf::io::ErrorCollector
+google::protobuf::TextFormat::Printer::TextGenerator: google::protobuf::TextFormat::BaseTextGenerator
+google::protobuf::UninterpretedOption: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::UninterpretedOption_NamePart: google::protobuf::Message, google::protobuf::MessageLite
+google::protobuf::_A0x5c51d97d::GeneratedMessageFactory: google::protobuf::MessageFactory
+google::protobuf::_A0xc9545c76::AggregateErrorCollector: google::protobuf::io::ErrorCollector
+google::protobuf::internal::DescriptorPoolExtensionFinder: google::protobuf::internal::ExtensionFinder
+google::protobuf::internal::DynamicMapField: google::protobuf::internal::TypeDefinedMapFieldBase_class_google::protobuf::MapKey__class_MapValueRef::google::MapValueRef_, google::protobuf::internal::MapFieldBase
+google::protobuf::internal::ExtensionFinder
+google::protobuf::internal::FieldSkipper
+google::protobuf::internal::FunctionClosure0: google::protobuf::Closure
+google::protobuf::internal::FunctionClosure1_class_google::protobuf::FieldDescriptor_const_____ptr64_: google::protobuf::Closure
+google::protobuf::internal::FunctionClosure1_class_google::protobuf::FileDescriptorTables_const_____ptr64_: google::protobuf::Closure
+google::protobuf::internal::FunctionClosure1_class_google::protobuf::FileDescriptor_const_____ptr64_: google::protobuf::Closure
+google::protobuf::internal::FunctionClosure1_class_google::protobuf::internal::LazyDescriptor_____ptr64_: google::protobuf::Closure
+google::protobuf::internal::FunctionClosure1_struct_std::pair_class_google::protobuf::FileDescriptorTables_const_____ptr64__class_SourceCodeInfo::google::SourceCodeInfo_const_____ptr64______ptr64_: google::protobuf::Closure
+google::protobuf::internal::GeneratedExtensionFinder: google::protobuf::internal::ExtensionFinder
+google::protobuf::internal::GeneratedMessageReflection: google::protobuf::Reflection
+google::protobuf::internal::MapFieldAccessor: google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::MapFieldBase
+google::protobuf::internal::RandomAccessRepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_bool_: google::protobuf::internal::RepeatedFieldWrapper_bool_, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_double_: google::protobuf::internal::RepeatedFieldWrapper_double_, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_float_: google::protobuf::internal::RepeatedFieldWrapper_float_, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_int_: google::protobuf::internal::RepeatedFieldWrapper_int_, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_long_long___int64__: google::protobuf::internal::RepeatedFieldWrapper_long_long___int64__, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_unsigned_int_: google::protobuf::internal::RepeatedFieldWrapper_unsigned_int_, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldPrimitiveAccessor_unsigned_long_long_unsigned___int64__: google::protobuf::internal::RepeatedFieldWrapper_unsigned_long_long_unsigned___int64__, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedFieldWrapper_bool_
+google::protobuf::internal::RepeatedFieldWrapper_double_
+google::protobuf::internal::RepeatedFieldWrapper_float_
+google::protobuf::internal::RepeatedFieldWrapper_int_
+google::protobuf::internal::RepeatedFieldWrapper_long_long___int64__
+google::protobuf::internal::RepeatedFieldWrapper_unsigned_int_
+google::protobuf::internal::RepeatedFieldWrapper_unsigned_long_long_unsigned___int64__
+google::protobuf::internal::RepeatedPtrFieldMessageAccessor: google::protobuf::internal::RepeatedPtrFieldWrapper_class_google::protobuf::Message_, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedPtrFieldStringAccessor: __AV__RepeatedPtrFieldWrapper_V__basic_string_DU__char_traits_D_std__V__allocator_D_2__std___internal_protobuf_google__, google::protobuf::internal::RandomAccessRepeatedFieldAccessor, google::protobuf::internal::RepeatedFieldAccessor
+google::protobuf::internal::RepeatedPtrFieldWrapper_class_google::protobuf::Message_
+google::protobuf::internal::TypeDefinedMapFieldBase_class_google::protobuf::MapKey__class_MapValueRef::google::MapValueRef_
+google::protobuf::internal::UnknownFieldSetFieldSkipper: google::protobuf::internal::FieldSkipper
+google::protobuf::io::ArrayInputStream: google::protobuf::io::ZeroCopyInputStream
+google::protobuf::io::ArrayOutputStream: google::protobuf::io::ZeroCopyOutputStream
+google::protobuf::io::ErrorCollector
+google::protobuf::io::StringOutputStream: google::protobuf::io::ZeroCopyOutputStream
+google::protobuf::io::ZeroCopyInputStream
+google::protobuf::io::ZeroCopyOutputStream
+std::_Crt_new_delete
+std::_Facet_base
+std::_Func_base_void__class_CEnvMapSceneObject_____ptr64_
+std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_base_void__class_CSceneLightProbeVolumeObject_____ptr64_
+std::_Func_base_void__class_CSceneObject_____ptr64_
+std::_Func_impl_class__lambda_145fd1566b925bb31c026bba78f0ae0f___class_std::allocator_int___void__class_CEnvMapSceneObject_____ptr64_: std::_Func_base_void__class_CEnvMapSceneObject_____ptr64_
+std::_Func_impl_class__lambda_20e5aa45c77454285cddbca1a87880b9___class_std::allocator_int___void__class_CEnvMapSceneObject_____ptr64_: std::_Func_base_void__class_CEnvMapSceneObject_____ptr64_
+std::_Func_impl_class__lambda_35e59b4fa46750667b16a5f083517ec0___class_std::allocator_int___void__class_CSceneLightObjectInternal_____ptr64_: std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_impl_class__lambda_462384bc7051fa324bde30a2217a88a2___class_std::allocator_int___void__class_CSceneLightObjectInternal_____ptr64_: std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_impl_class__lambda_54bdb0e6d13ab997513b7a0d64625e9f___class_std::allocator_int___void__class_CSceneLightObjectInternal_____ptr64_: std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_impl_class__lambda_8f92e1a87b129f052e6d88e8cb55ce04___class_std::allocator_int___void__class_CSceneLightObjectInternal_____ptr64_: std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_impl_class__lambda_a434b47959dd3d9ddee38632336775b2___class_std::allocator_int___void__class_CSceneLightObjectInternal_____ptr64_: std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_impl_class__lambda_bdfe5fb47bd4977f73c0f40832b6ff3a___class_std::allocator_int___void__class_CSceneLightProbeVolumeObject_____ptr64_: std::_Func_base_void__class_CSceneLightProbeVolumeObject_____ptr64_
+std::_Func_impl_class__lambda_d66357f1dcc33d128de5810280b7464f___class_std::allocator_int___void__class_CSceneLightProbeVolumeObject_____ptr64_: std::_Func_base_void__class_CSceneLightProbeVolumeObject_____ptr64_
+std::_Func_impl_class__lambda_e21fb7c176450106e4dde344651ee958___class_std::allocator_int___void__class_CSceneLightObjectInternal_____ptr64_: std::_Func_base_void__class_CSceneLightObjectInternal_____ptr64_
+std::_Func_impl_void____cdecl___class_CSceneObject_____ptr64___class_std::allocator_int___void__class_std_____ptr64_: std::_Func_base_void__class_CSceneObject_____ptr64_
+std::_Generic_error_category
+std::_Iosb_int_
+std::_Iostream_error_category: std::_Generic_error_category, std::error_category
+std::_Ref_count_base
+std::_Ref_count_obj_alloc_class___ExceptionPtr__struct__StaticAllocator_int__: std::_Ref_count_base
+std::_Ref_count_obj_class___ExceptionPtr_: std::_Ref_count_base
+std::_System_error: std::runtime_error, std::exception
+std::__non_rtti_object: std::bad_typeid, std::exception
+std::bad_alloc: std::exception
+std::bad_cast: std::exception
+std::bad_exception: std::exception
+std::bad_function_call: std::exception
+std::bad_typeid: std::exception
+std::basic_ios_char__struct_std::char_traits_char__: std::ios_base, std::_Iosb_int_
+std::basic_ostream_char__struct_std::char_traits_char__: std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_streambuf_char__struct_std::char_traits_char__
+std::ctype_base
+std::ctype_char_: std::ctype_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::error_category
+std::exception
+std::ios_base: std::_Iosb_int_
+std::ios_base::failure: std::system_error, std::_System_error, std::runtime_error, std::exception
+std::length_error: std::logic_error, std::exception
+std::locale::_Locimp: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::locale::facet
+std::logic_error: std::exception
+std::num_put_char__class_std::ostreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::numpunct_char_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::out_of_range: std::logic_error, std::exception
+std::runtime_error: std::exception
+std::system_error: std::_System_error, std::runtime_error, std::exception
+type_info

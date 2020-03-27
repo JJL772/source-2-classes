@@ -1,0 +1,1306 @@
+CAlignedBoxHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAlignedBoxHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAlignedBoxHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAnglesHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAnglesHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAnglesHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAppSystemDict
+CAreaFootprintHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAreaFootprintHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAreaFootprintHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CAudioSourceWave
+CBakeAmbientLightHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeAmbientLightHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeAmbientLightHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeAmbientOcclusionHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeAmbientOcclusionHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeAmbientOcclusionHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeLightImportanceVolumeHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeLightImportanceVolumeHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeLightImportanceVolumeHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeResourceHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeResourceHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeResourceHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeSkyLightHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeSkyLightHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBakeSkyLightHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseAppSystem_class_IAppSystem_
+CBaseAppSystem_class_IApplication_
+CBaseAppSystem_class_IDataModel_
+CBaseAppSystem_class_IDmElementFramework_
+CBaseAppSystem_class_IFbxSystem_
+CBaseAppSystem_class_IResourceCompilerSystem_
+CBaseAppSystem_class_IResourceTypeCompiler_
+CBaseHelper: IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseHelper_1: IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseHelper_2: IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseModelRaytracingEnvironment
+CBaseOrthoVolumeHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseOrthoVolumeHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseOrthoVolumeHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CBaseToolsModelInstance: IModelConfigPreviewHost
+CBaseUndoable: IUndoable
+CBitmapAssetTypeInfo: CSimpleAssetTypeInfo
+CBloomLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CBoundingBoxChangeRenderable: IToolRenderCallbacks
+CBrightnessContrastColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CChoreoActor: CChoreoObjectBase
+CChoreoChannel: CChoreoObjectBase
+CChoreoEvent: CChoreoObjectBase, ICurveDataAccessor
+CChoreoEvent_1: CChoreoObjectBase, ICurveDataAccessor
+CChoreoObjectBase
+CChoreoScene: ICurveDataAccessor
+CChoreoStringPool: IChoreoStringPoolBuilder, IChoreoStringPool
+CClassInput: CClassInputOutputBase
+CClassInputOutputBase
+CClassOutput: CClassInputOutputBase
+CColorBalanceColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CColorCorrectionLayer: CBaseUndoable, IUndoable
+CColorLookupColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CColorTintColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CCompileTargetExprOpCodeHandler: IOpCodeHandler_int_
+CCompileTargetExprStackMachineBuilder: CUtlStackMachineBuilder
+CConfigFileCache: IP4ConfigFileCache
+CContextAssertionFailureListener: IAssertionFailureListener
+CCurvesColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CDataModel: CBaseAppSystem_class_IDataModel_, IDataModel, CBaseAppSystem_class_IAppSystem_, IAppSystem
+CDatamodelAssetTypeInfo: CSimpleAssetTypeInfo
+CDebugDrawRayTracingEnvironment: IToolRenderCallbacks, CToolRenderable
+CDefScriptAccessorBase
+CDefaultKeyValuesErrorSpew: IKeyValuesErrorSpew
+CDmArrayAttributeOp_bool_: CDmAttributeOp_class_CUtlVector_bool__class_CUtlMemory_bool__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_CUtlBinaryBlock_: CDmAttributeOp_class_CUtlVector_class_CUtlBinaryBlock__class_CUtlMemory_class_CUtlBinaryBlock__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_CUtlSymbolLarge_: CDmAttributeOp_class_CUtlVector_class_CUtlSymbolLarge__class_CUtlMemory_class_CUtlSymbolLarge__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_Color_: CDmAttributeOp_class_CUtlVector_class_Color__class_CUtlMemory_class_Color__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_DmeTime_t_: CDmAttributeOp_class_CUtlVector_class_DmeTime_t__class_CUtlMemory_class_DmeTime_t__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_QAngle_: CDmAttributeOp_class_CUtlVector_class_QAngle__class_CUtlMemory_class_QAngle__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_Quaternion_: CDmAttributeOp_class_CUtlVector_class_Quaternion__class_CUtlMemory_class_Quaternion__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_VMatrix_: CDmAttributeOp_class_CUtlVector_class_VMatrix__class_CUtlMemory_class_VMatrix__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_Vector2D_: CDmAttributeOp_class_CUtlVector_class_Vector2D__class_CUtlMemory_class_Vector2D__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_Vector4D_: CDmAttributeOp_class_CUtlVector_class_Vector4D__class_CUtlMemory_class_Vector4D__int___, IDmAttributeOp
+CDmArrayAttributeOp_class_Vector_: CDmAttributeOp_class_CUtlVector_class_Vector__class_CUtlMemory_class_Vector__int___, IDmAttributeOp
+CDmArrayAttributeOp_enum_DmElementHandle_t_: CDmAttributeOp_class_CUtlVector_enum_DmElementHandle_t__class_CUtlMemory_enum_DmElementHandle_t__int___, IDmAttributeOp
+CDmArrayAttributeOp_float_: CDmAttributeOp_class_CUtlVector_float__class_CUtlMemory_float__int___, IDmAttributeOp
+CDmArrayAttributeOp_int_: CDmAttributeOp_class_CUtlVector_int__class_CUtlMemory_int__int___, IDmAttributeOp
+CDmArrayAttributeOp_unsigned_char_: CDmAttributeOp_class_CUtlVector_unsigned_char__class_CUtlMemory_unsigned_char__int___, IDmAttributeOp
+CDmArrayAttributeOp_unsigned_long_long_unsigned___int64__: CDmAttributeOp_class_CUtlVector_unsigned_long_long_unsigned___int64___class_CUtlMemory_unsigned_long_long_unsigned___int64___int___, IDmAttributeOp
+CDmAttributeOp_bool_: IDmAttributeOp
+CDmAttributeOp_class_CUtlBinaryBlock_: IDmAttributeOp
+CDmAttributeOp_class_CUtlSymbolLarge_: IDmAttributeOp
+CDmAttributeOp_class_CUtlVector_bool__class_CUtlMemory_bool__int___
+CDmAttributeOp_class_CUtlVector_class_CUtlBinaryBlock__class_CUtlMemory_class_CUtlBinaryBlock__int___
+CDmAttributeOp_class_CUtlVector_class_CUtlSymbolLarge__class_CUtlMemory_class_CUtlSymbolLarge__int___
+CDmAttributeOp_class_CUtlVector_class_Color__class_CUtlMemory_class_Color__int___
+CDmAttributeOp_class_CUtlVector_class_DmeTime_t__class_CUtlMemory_class_DmeTime_t__int___
+CDmAttributeOp_class_CUtlVector_class_QAngle__class_CUtlMemory_class_QAngle__int___
+CDmAttributeOp_class_CUtlVector_class_Quaternion__class_CUtlMemory_class_Quaternion__int___
+CDmAttributeOp_class_CUtlVector_class_VMatrix__class_CUtlMemory_class_VMatrix__int___
+CDmAttributeOp_class_CUtlVector_class_Vector2D__class_CUtlMemory_class_Vector2D__int___
+CDmAttributeOp_class_CUtlVector_class_Vector4D__class_CUtlMemory_class_Vector4D__int___
+CDmAttributeOp_class_CUtlVector_class_Vector__class_CUtlMemory_class_Vector__int___
+CDmAttributeOp_class_CUtlVector_enum_DmElementHandle_t__class_CUtlMemory_enum_DmElementHandle_t__int___
+CDmAttributeOp_class_CUtlVector_float__class_CUtlMemory_float__int___
+CDmAttributeOp_class_CUtlVector_int__class_CUtlMemory_int__int___
+CDmAttributeOp_class_CUtlVector_unsigned_char__class_CUtlMemory_unsigned_char__int___
+CDmAttributeOp_class_CUtlVector_unsigned_long_long_unsigned___int64___class_CUtlMemory_unsigned_long_long_unsigned___int64___int___
+CDmAttributeOp_class_Color_: IDmAttributeOp
+CDmAttributeOp_class_DmeTime_t_: IDmAttributeOp
+CDmAttributeOp_class_QAngle_: IDmAttributeOp
+CDmAttributeOp_class_Quaternion_: IDmAttributeOp
+CDmAttributeOp_class_VMatrix_: IDmAttributeOp
+CDmAttributeOp_class_Vector2D_: IDmAttributeOp
+CDmAttributeOp_class_Vector4D_: IDmAttributeOp
+CDmAttributeOp_class_Vector_: IDmAttributeOp
+CDmAttributeOp_enum_DmElementHandle_t_: IDmAttributeOp
+CDmAttributeOp_float_: IDmAttributeOp
+CDmAttributeOp_int_: IDmAttributeOp
+CDmAttributeOp_struct_DmUnknownAttribute_t_: IDmAttributeOp
+CDmAttributeOp_unsigned_char_: IDmAttributeOp
+CDmAttributeOp_unsigned_long_long_unsigned___int64__: IDmAttributeOp
+CDmElement
+CDmElementFramework: CBaseAppSystem_class_IDmElementFramework_, IDmElementFramework, CBaseAppSystem_class_IAppSystem_, IAppSystem
+CDmExtraVertexData: CDmElement
+CDmExtraVertexStream: CDmElement
+CDmeAmbientLight: CDmeLight, CDmeDag, CDmElement
+CDmeAnimationList: CDmElement
+CDmeAnimationSet: CDmElement
+CDmeAttachment: CDmeShape, CDmElement
+CDmeAttributeReference: CDmElement
+CDmeAxisSystem: CDmElement
+CDmeBaseImporter
+CDmeBookmark: CDmElement
+CDmeBookmarkSet: CDmElement
+CDmeCamera: CDmeDag, CDmElement
+CDmeChannel: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeChannel_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeChannelsClip: CDmeClip, CDmElement
+CDmeClip: CDmElement
+CDmeCombinationDominationRule: CDmElement
+CDmeCombinationInputControl: CDmElement
+CDmeCombinationOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeCombinationOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeComponent: CDmElement
+CDmeConnectionData: CDmElement
+CDmeConnectionOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeConnectionOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeConstraintSlave: CDmElement
+CDmeConstraintTarget: CDmElement
+CDmeControlGroup: CDmElement
+CDmeCurveInfo: CDmElement
+CDmeDCCMakefile: CDmeMakefile, CDmElement
+CDmeDag: CDmElement
+CDmeDirectionalLight: CDmeLight, CDmeDag, CDmElement
+CDmeDotaTileGrid: CDmElement
+CDmeDrawCallSnapshot: CDmElement
+CDmeEditorAttributeInfo: CDmElement
+CDmeEditorBoolChoicesInfo: CDmeEditorChoicesInfo, CDmeEditorAttributeInfo, CDmElement
+CDmeEditorChoicesInfo: CDmeEditorAttributeInfo, CDmElement
+CDmeEditorIntChoicesInfo: CDmeEditorChoicesInfo, CDmeEditorAttributeInfo, CDmElement
+CDmeEditorStringChoicesInfo: CDmeEditorChoicesInfo, CDmeEditorAttributeInfo, CDmElement
+CDmeEditorType: CDmElement
+CDmeEditorTypeDictionary: CDmElement
+CDmeExportTags: CDmElement
+CDmeExpressionOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeExpressionOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFXClip: CDmeClip, CDmElement
+CDmeFaceSet: CDmElement
+CDmeFilmClip: CDmeClip, CDmElement
+CDmeFlexRuleBase: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRuleBase_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRuleExpression: CDmeFlexRuleBase_1, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRuleExpression_1: CDmeFlexRuleBase_1, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRuleLocalVar: CDmeFlexRuleBase_1, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRuleLocalVar_1: CDmeFlexRuleBase_1, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRulePassThrough: CDmeFlexRuleBase_1, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRulePassThrough_1: CDmeFlexRuleBase_1, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRules: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeFlexRules_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeGameSound: CDmeSound, CDmElement
+CDmeImageProcessor: CDmElement
+CDmeInputTexture: CDmElement
+CDmeJoint: CDmeDag, CDmElement
+CDmeLight: CDmeDag, CDmElement
+CDmeLog: CDmElement
+CDmeLogLayer: CDmElement
+CDmeMakefile: CDmElement
+CDmeMaterial: CDmElement
+CDmeMayaAnimationMakefile: CDmeMayaMakefile, CDmeDCCMakefile, CDmeMakefile, CDmElement
+CDmeMayaMakefile: CDmeDCCMakefile, CDmeMakefile, CDmElement
+CDmeMayaModelMakefile: CDmeMayaMakefile, CDmeDCCMakefile, CDmeMakefile, CDmElement
+CDmeMesh: CDmeShape, CDmElement
+CDmeModel: CDmeDag, CDmElement
+CDmeMorphOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeMorphOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeNavData: CDmElement
+CDmeNavEditMesh: CDmElement
+CDmeNodeInstanceData: CDmElement
+CDmeOperator: IDmeOperator, CDmElement
+CDmeOperator_1: IDmeOperator, CDmElement
+CDmePackColorOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackColorOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackQAngleOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackQAngleOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackQuaternionOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackQuaternionOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVMatrixOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVMatrixOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVector2Operator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVector2Operator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVector3Operator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVector3Operator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVector4Operator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePackVector4Operator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmePhonemeMapping: CDmElement
+CDmePlugList: CDmElement
+CDmePointLight: CDmeLight, CDmeDag, CDmElement
+CDmePolygonMesh: CDmElement
+CDmePolygonMeshDataArray: CDmElement
+CDmePolygonMeshDataStream: CDmElement
+CDmePolygonMeshSubdivisionData: CDmElement
+CDmePolygonMeshSubdivisiondataBinding: CDmElement
+CDmePreset: CDmElement
+CDmePresetGroup: CDmElement
+CDmePresetGroupInfo: CDmElement
+CDmeProceduralPresetSettings: CDmElement
+CDmeReferencedMeshSnapshot: CDmElement
+CDmeRigAimConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigAimConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigBaseConstraintOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigBaseConstraintOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigHandle: CDmeDag, CDmElement
+CDmeRigIKConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigIKConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigOrientConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigOrientConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigParentConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigParentConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigPointConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigPointConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigRotationConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigRotationConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigSplineConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigSplineConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigTwistConstraintOperator: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigTwistConstraintOperator_1: CDmeRigBaseConstraintOperator, CDmeOperator_1, IDmeOperator, CDmElement
+CDmeRigTwistSlave: CDmeConstraintSlave, CDmElement
+CDmeShape: CDmElement
+CDmeSingleIndexedComponent: CDmeComponent, CDmElement
+CDmeSound: CDmElement
+CDmeSoundClip: CDmeClip, CDmElement
+CDmeSource: CDmElement
+CDmeSourceDCCFile: CDmeSource, CDmElement
+CDmeSourceMayaAnimationFile: CDmeSourceMayaFile, CDmeSourceDCCFile, CDmeSource, CDmElement
+CDmeSourceMayaFile: CDmeSourceDCCFile, CDmeSource, CDmElement
+CDmeSourceMayaModelFile: CDmeSourceMayaFile, CDmeSourceDCCFile, CDmeSource, CDmElement
+CDmeSourceXSIFile: CDmeSourceDCCFile, CDmeSource, CDmElement
+CDmeSplitData: CDmElement
+CDmeSpotLight: CDmePointLight, CDmeLight, CDmeDag, CDmElement
+CDmeTextureOutputChannel: CDmElement
+CDmeTileMesh: CDmElement
+CDmeTileSetMapInfo: CDmElement
+CDmeTimeFrame: CDmElement
+CDmeTimeSelection: CDmElement
+CDmeTrack: CDmElement
+CDmeTrackGroup: CDmElement
+CDmeTransform: CDmElement
+CDmeTransformControl: CDmElement
+CDmeTransformList: CDmElement
+CDmeTransformOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeTransformOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeTypedCurveInfo_bool_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_CUtlSymbolLarge_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_Color_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_DmeTime_t_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_QAngle_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_Quaternion_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_VMatrix_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_Vector2D_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_Vector4D_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_class_Vector_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_float_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_int_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_unsigned_char_: CDmeCurveInfo, CDmElement
+CDmeTypedCurveInfo_unsigned_long_long_unsigned___int64__: CDmeCurveInfo, CDmElement
+CDmeTypedLogLayer_bool_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_CUtlSymbolLarge_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_Color_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_DmeTime_t_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_QAngle_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_Quaternion_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_VMatrix_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_Vector2D_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_Vector4D_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_class_Vector_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_float_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_int_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_unsigned_char_: CDmeLogLayer, CDmElement
+CDmeTypedLogLayer_unsigned_long_long_unsigned___int64__: CDmeLogLayer, CDmElement
+CDmeTypedLog_bool_: CDmeLog, CDmElement
+CDmeTypedLog_class_CUtlSymbolLarge_: CDmeLog, CDmElement
+CDmeTypedLog_class_Color_: CDmeLog, CDmElement
+CDmeTypedLog_class_DmeTime_t_: CDmeLog, CDmElement
+CDmeTypedLog_class_QAngle_: CDmeLog, CDmElement
+CDmeTypedLog_class_Quaternion_: CDmeLog, CDmElement
+CDmeTypedLog_class_VMatrix_: CDmeLog, CDmElement
+CDmeTypedLog_class_Vector2D_: CDmeLog, CDmElement
+CDmeTypedLog_class_Vector4D_: CDmeLog, CDmElement
+CDmeTypedLog_class_Vector_: CDmeLog, CDmElement
+CDmeTypedLog_float_: CDmeLog, CDmElement
+CDmeTypedLog_int_: CDmeLog, CDmElement
+CDmeTypedLog_unsigned_char_: CDmeLog, CDmElement
+CDmeTypedLog_unsigned_long_long_unsigned___int64__: CDmeLog, CDmElement
+CDmeUnpackColorOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackColorOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackQAngleOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackQAngleOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackQuaternionOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackQuaternionOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVMatrixOperator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVMatrixOperator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVector2Operator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVector2Operator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVector3Operator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVector3Operator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVector4Operator: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeUnpackVector4Operator_1: CDmeOperator_1, IDmeOperator, CDmElement
+CDmeVertexData: CDmeVertexDataBase, CDmElement
+CDmeVertexDataBase: CDmElement
+CDmeVertexDeltaData: CDmeVertexDataBase, CDmElement
+CDmeVtex: CDmElement
+CDmeXSIMakefile: CDmeDCCMakefile, CDmeMakefile, CDmElement
+CDotaGridNavData: CBaseUndoable, IUndoable
+CDotaObstructionHelper: CModelHelper_2, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CDotaObstructionHelper_1: CModelHelper_2, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CDotaObstructionHelper_2: CModelHelper_2, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CDotaSkyboxHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CDotaSkyboxHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CDotaSkyboxHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CDotaTileSelectionSet: CSelectionSet_class_CDotaTileSelectionItem_, ISelectionSet, ITransformable
+CEdgeSelectionSetDataElement: CSelectionSetDataElement, CDmElement
+CEditGameClassProps: CDmElement
+CElementForKeyValueCallback: IElementForKeyValueCallback
+CElementVisitor_DmeMeshFinder: IElementVisitor
+CElementVisitor_DotaLightFinder: IElementVisitor
+CElementVisitor_LightEnvironment: IElementVisitor
+CEntityComponent
+CEntityIOOutput
+CExternalHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget, IToolObjectContext
+CExternalHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget, IToolObjectContext
+CExternalHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget, IToolObjectContext
+CExternalHelper_3: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget, IToolObjectContext
+CFaceSelectionSetDataElement: CSelectionSetDataElement, CDmElement
+CFbxSystem: CBaseAppSystem_class_IFbxSystem_, IFbxSystem, IAppSystem
+CFileLoggingListener: IFileLoggingListener, ILoggingListener
+CFlexAnimationTrack: ICurveDataAccessor
+CFmtStrN_1024__0_
+CFmtStrN_256__0_
+CFmtStrN_8192__0_
+CFogHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CFogHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CFogHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CFrustumHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CFrustumHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CFrustumHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CFunctor
+CFunctorJob: CThreadedJob_1, CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CFunctorJob_1: CThreadedJob_1, CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CGlobalHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CGlobalHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CGlobalHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CGrassMaterialSlot: CDmElement
+CGrassTileSceneObjectContainer: CSimpleSceneObjectContainer, IToolSceneObjectContainer
+CHalfEdgeMesh_int__struct_EdgeDataPair_t__int_::ITopologicalDataStore
+CHammerClipboard: IHammerClipboard
+CHammerModelInstance: CBaseToolsModelInstance, IModelConfigPreviewHost
+CHammerPolyMesh: CPolygonMesh, CHalfEdgeMesh_int__struct_EdgeDataPair_t__int_::ITopologicalDataStore
+CHtmlFormattedLoggingListener: ILoggingListener
+CHueSaturationColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CIconHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CIconHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CIconHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CImagePlaneNode: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CImagePlaneNode_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CImagePlaneNode_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CImagePlaneNode_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CImagePlaneNode_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CImportSFMV1: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV2: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV3: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV4: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV5: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV6: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV7: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV8: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CImportSFMV9: CSFMBaseImporter, CDmeBaseImporter, IDmLegacyUpdater
+CInStreamRam: ISequentialInStream, IUnknown, CMyUnknownImp
+CInstanceStack: IUndoable
+CIntOpEvaluator: IOpEvaluator_int_
+CKV3TransferInterface_ResourceSave: IKV3TransferInterface_ResourceSave
+CLODHintHelper: CBaseOrthoVolumeHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLODHintHelper_1: CBaseOrthoVolumeHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLODHintHelper_2: CBaseOrthoVolumeHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLZInWindow
+CLayerMask: CBaseUndoable, IUndoable
+CLeanSphereHelper: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLeanSphereHelper_1: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLeanSphereHelper_2: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLevelsColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CLightConeHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLightConeHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLightConeHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLightHelper: CThinkableHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLightHelper_1: CThinkableHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLightHelper_2: CThinkableHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLineHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLineHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLineHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CLogLayerSampleData
+CManifestInstance: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CManifestInstance_1: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CManifestInstance_2: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CManifestInstance_3: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CManifestInstance_4: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapAssetTypeInfo: CResourceAssetTypeInfo, CSimpleAssetTypeInfo
+CMapAtom: CDmElement
+CMapBuilderContext: IMapBuilderContext
+CMapCable: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCable_1: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCable_2: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCable_3: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCable_4: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCordon: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCordon_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCordon_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCordon_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapCordon_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapDoc: IMapFileReference, IUndoDoc, IUndoListener
+CMapDoc_1: IMapFileReference, IUndoDoc, IUndoListener
+CMapDoc_2: IMapFileReference, IUndoDoc, IUndoListener
+CMapDotaGridnavMarkup: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapDotaGridnavMarkup_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapDotaGridnavMarkup_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapDotaGridnavMarkup_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapDotaGridnavMarkup_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapDotaTileGrid: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapDotaTileGrid::CBlendData: CBaseUndoable, IUndoable
+CMapDotaTileGrid::CLayer: CBaseUndoable, IUndoable
+CMapDotaTileGrid::CLayerList: CBaseUndoable, IUndoable
+CMapDotaTileGrid_1: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapDotaTileGrid_2: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapDotaTileGrid_3: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapDotaTileGrid_4: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapDotaTileGrid_5: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapDotaTileGrid_6: CMapTileGrid, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData, IMapReferenceOwner
+CMapEntity: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntityIONode: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntityIONode_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntityIONode_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntityIONode_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntityIONode_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntity_1: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntity_2: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntity_3: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapEntity_4: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGameDataNode: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGameDataNode_1: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGameDataNode_2: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGameDataNode_3: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGameDataNode_4: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGlobalTileGridMaps: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGlobalTileGridMaps_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGlobalTileGridMaps_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGlobalTileGridMaps_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGlobalTileGridMaps_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTile: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTileCollection: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTileCollection_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTileCollection_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTileCollection_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTileCollection_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTile_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTile_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTile_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGrassTile_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGroup: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGroupProxy: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapGroupProxy_1: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapGroupProxy_2: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapGroupProxy_3: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapGroupProxy_4: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapGroupProxy_5: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapGroup_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGroup_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGroup_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapGroup_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapInstance: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapInstance_1: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapInstance_2: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapInstance_3: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapInstance_4: CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapMesh: CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener
+CMapMeshBase: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapMeshBase_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapMeshBase_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapMeshBase_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapMeshBase_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapMesh_1: CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener
+CMapMesh_2: CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener
+CMapMesh_3: CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener
+CMapMesh_4: CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener
+CMapMesh_5: CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener
+CMapModelRaytracingEnvironment: CBaseModelRaytracingEnvironment
+CMapNavData: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNavData_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNavData_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNavData_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNavData_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNavMesh: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, INavEditMeshChangeListener
+CMapNavMesh_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, INavEditMeshChangeListener
+CMapNavMesh_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, INavEditMeshChangeListener
+CMapNavMesh_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, INavEditMeshChangeListener
+CMapNavMesh_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, INavEditMeshChangeListener
+CMapNavMesh_5: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, INavEditMeshChangeListener
+CMapNode: CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNodeDataProvider: IHammerMapNode
+CMapNodeTransformationBaseline: ITransformationBaseline
+CMapNode_1: CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNode_2: CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNode_3: CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapNode_4: CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPath: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPathNode: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPathNode_1: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPathNode_2: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPathNode_3: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPathNode_4: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPath_1: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPath_2: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPath_3: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPath_4: CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPhysicsPin: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPhysicsPin_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPhysicsPin_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPhysicsPin_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPhysicsPin_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPoint: CMapAtom, CDmElement
+CMapPrefab: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapPrefabSubInstance: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPrefabSubInstance_1: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPrefabSubInstance_2: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPrefabSubInstance_3: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPrefabSubInstance_4: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapPrefab_1: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapPrefab_2: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapPrefab_3: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapPrefab_4: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapPrefab_5: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapProxy: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapProxyInstance: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapProxyInstance_1: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapProxyInstance_2: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapProxyInstance_3: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapProxyInstance_4: CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapProxy_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapProxy_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapProxy_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapProxy_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapProxy_5: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapReference: IMapFileReference
+CMapRootElement: CDmElement
+CMapSelectionSet: CDmElement, IUndoable
+CMapSelectionSet_1: CDmElement, IUndoable
+CMapSpawnGroup: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapSpawnGroup_1: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapSpawnGroup_2: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapSpawnGroup_3: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapSpawnGroup_4: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapStaticOverlay: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapStaticOverlay_1: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapStaticOverlay_2: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapStaticOverlay_3: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapStaticOverlay_4: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapStaticOverlay_5: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapStaticOverlay_6: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, IBoundingBoxChangeListener
+CMapTile: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileGrid: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData
+CMapTileGrid_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData
+CMapTileGrid_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData
+CMapTileGrid_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData
+CMapTileGrid_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData
+CMapTileGrid_5: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IGridData
+CMapTileMesh: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileMesh_1: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileMesh_2: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileMesh_3: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileMesh_4: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileMesh_5: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileMesh_6: CMapMesh, CMapMeshBase, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IHammerMeshChangeListener, ITileSetMapReference
+CMapTileObject: CMapPrefab, CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapTileObject_1: CMapPrefab, CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapTileObject_2: CMapPrefab, CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapTileObject_3: CMapPrefab, CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapTileObject_4: CMapPrefab, CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapTileObject_5: CMapPrefab, CMapInstance, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, IMapFileReference
+CMapTileProxy: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileProxy_1: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileProxy_2: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileProxy_3: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileProxy_4: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileProxy_5: CMapProxy_5, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTileSet: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapTileSet_1: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapTileSet_2: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapTileSet_3: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapTileSet_4: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapTile_1: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTile_2: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTile_3: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTile_4: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapTile_5: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, ITilePropertyNode
+CMapVariableChoice: CDmElement
+CMapVariableChoiceGroup: CDmElement
+CMapVariableSet: CDmElement, IUndoable
+CMapVariableSet_1: CDmElement, IUndoable
+CMapWeightedGroup: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWeightedGroup_1: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWeightedGroup_2: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWeightedGroup_3: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWeightedGroup_4: CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorld: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorldLayer: CMapSpawnGroup_4, CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorldLayer_1: CMapSpawnGroup_4, CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorldLayer_2: CMapSpawnGroup_4, CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorldLayer_3: CMapSpawnGroup_4, CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorldLayer_4: CMapSpawnGroup_4, CMapGroup_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorld_1: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorld_2: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorld_3: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMapWorld_4: CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CMaterialSystem2AppSystemDict: CTier2AppSystemDict, CTier1AppSystemDict, CAppSystemDict, IRenderDeviceSetup
+CMaterialSystem2AppSystemDict_1: CTier2AppSystemDict, CTier1AppSystemDict, CAppSystemDict, IRenderDeviceSetup
+CMeshSceneObjectContainer: IToolSceneObjectContainer
+CMeshTransformationBaseline: ITransformationBaseline
+CMixedSelectionSet: CSelectionSet_class_CSmartPtr_class_CSelectionHandle__class_CRefCountAccessor__, ISelectionSet, ITransformable
+CModelHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CModelHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CModelHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CModelInstanceSceneObjectContainer: IToolSceneObjectContainer
+CMyUnknownImp
+CNavArea: CNavPoly
+CNavMesh
+CNavPoly
+CNavPrecacheInfo
+CNewParticleEffect: IParticleEffect
+CObjectSelectionSet: CSelectionSet_class_CMapNode_____ptr64_, ISelectionSet, ITransformable
+CObjectSelectionSetDataElement: CSelectionSetDataElement, CDmElement
+CObjectTransformationBaseline: ITransformationBaseline
+COccluderHelper: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+COccluderHelper_1: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+COccluderHelper_2: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+COutStreamRam: ISequentialOutStream, IUnknown, CMyUnknownImp
+COverlayHelper: CBaseOrthoVolumeHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+COverlayHelper_1: CBaseOrthoVolumeHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+COverlayHelper_2: CBaseOrthoVolumeHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+COverlayRenderable: IToolRenderCallbacks, CToolRenderable
+CP4File
+CParticleEffectInstance: IParticlePropertyOuter
+CParticleHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CParticleHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CParticleHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CParticleMgr
+CParticleSystemQueryHammerMapDoc: IParticleSystemQuery
+CParticlesLibHost_MapDocLib: IParticlesLibHost
+CPerLayerGrassData: CDmElement
+CPlaceholderConVar: ConVar_1, ConCommandBase, IConVar
+CPlaceholderConVar_1: ConVar_1, ConCommandBase, IConVar
+CPolyEdgeSelectionSet: CSelectionSet_class_CMeshEdge_, ISelectionSet, ITransformable
+CPolyFaceSelectionSet: CSelectionSet_class_CMeshFace_, ISelectionSet, ITransformable
+CPolyVertexSelectionSet: CSelectionSet_class_CMeshVertex_, ISelectionSet, ITransformable
+CPolygonMesh: CHalfEdgeMesh_int__struct_EdgeDataPair_t__int_::ITopologicalDataStore
+CPostConnectCallback
+CPostProcessData: CBaseUndoable, IUndoable
+CPostProcessLayerSelection: CBaseUndoable, IUndoable
+CRefCountServiceBase_1__class_CRefMT_
+CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__
+CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__
+CResourceAssetTypeInfo: CSimpleAssetTypeInfo
+CResourceCompilerContext: IResourceCompilerContext, IRegisterResourceReference, IResourceCompilerContextChild, IResourceCompilerContextSister
+CResourceCompilerContext_1: IResourceCompilerContext, IRegisterResourceReference, IResourceCompilerContextChild, IResourceCompilerContextSister
+CResourceCompilerContext_2: IResourceCompilerContext, IRegisterResourceReference, IResourceCompilerContextChild, IResourceCompilerContextSister
+CResourceCompilerDotaItem: CBaseAppSystem_class_IResourceTypeCompiler_, IResourceTypeCompiler, IAppSystem
+CResourceCompilerPanorama: CBaseAppSystem_class_IResourceTypeCompiler_, IResourceTypeCompiler, IAppSystem
+CResourceCompilerSystem: CTier3DmAppSystem_class_IResourceCompilerSystem__0_, CTier2DmAppSystem_class_IResourceCompilerSystem__0_, CTier2AppSystem_class_IResourceCompilerSystem__0_, CTier1AppSystem_class_IResourceCompilerSystem__0_, CTier0AppSystem_class_IResourceCompilerSystem_, CBaseAppSystem_class_IResourceCompilerSystem_, IResourceCompilerSystem, IAppSystem
+CResourceCustomDependencyContext: IResourceCustomDependencyContext
+CResourceStream
+CResourceStreamFixed: CResourceStream
+CResourceStreamVM: CResourceStream
+CSFMBaseImporter: CDmeBaseImporter, IDmLegacyUpdater
+CSceneObject: IGenericInterface
+CSchemaInstallCallback: CPostConnectCallback
+CSchemaUtlVectorManipulator_class_CUtlVector_bool__class_CUtlMemory_bool__int____bool_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CColorCorrectionLayer_____ptr64__class_CUtlMemory_class_CColorCorrectionLayer_____ptr64__int____class_CColorCorrectionLayer_____ptr64_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CEngineToolInfo__class_CUtlMemory_class_CEngineToolInfo__int____class_CEngineToolInfo_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CExternalToolInfo__class_CUtlMemory_class_CExternalToolInfo__int____class_CExternalToolInfo_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CSimpleAssetTypeInfo_____ptr64__class_CUtlMemory_class_CSimpleAssetTypeInfo_____ptr64__int____class_CSimpleAssetTypeInfo_____ptr64_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CStrongHandle_struct_InfoForResourceTypeCTextureBase___class_CUtlMemory_class_CStrongHandle_struct_InfoForResourceTypeCTextureBase___int____class_CStrongHandle_struct_InfoForResourceTypeCTextureBase__: ISchemaCollectionManipulator, ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_CUtlString__class_CUtlMemory_class_CUtlString__int____class_CUtlString_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_class_Vector2D__class_CUtlMemory_class_Vector2D__int____class_Vector2D_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_float__class_CUtlMemory_float__int____float_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_int__class_CUtlMemory_int__int____int_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_AABB_t__class_CUtlMemory_struct_AABB_t__int____struct_AABB_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_AssetAutoTagInfo_t__class_CUtlMemory_struct_AssetAutoTagInfo_t__int____struct_AssetAutoTagInfo_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_BoneOverride_t__class_CUtlMemory_struct_BoneOverride_t__int____struct_BoneOverride_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_EntityIOConnectionData_t__class_CUtlMemory_struct_EntityIOConnectionData_t__int____struct_EntityIOConnectionData_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_EntityKeyValueData_t__class_CUtlMemory_struct_EntityKeyValueData_t__int____struct_EntityKeyValueData_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_ExtraVertexStreamOverride_t__class_CUtlMemory_struct_ExtraVertexStreamOverride_t__int____struct_ExtraVertexStreamOverride_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_InfoDataFilter_t__class_CUtlMemory_struct_InfoDataFilter_t__int____struct_InfoDataFilter_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_InfoOverlayData_t__class_CUtlMemory_struct_InfoOverlayData_t__int____struct_InfoOverlayData_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialOverride_t__class_CUtlMemory_struct_MaterialOverride_t__int____struct_MaterialOverride_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialParamBuffer_t__class_CUtlMemory_struct_MaterialParamBuffer_t__int____struct_MaterialParamBuffer_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialParamFloat_t__class_CUtlMemory_struct_MaterialParamFloat_t__int____struct_MaterialParamFloat_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialParamInt_t__class_CUtlMemory_struct_MaterialParamInt_t__int____struct_MaterialParamInt_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialParamString_t__class_CUtlMemory_struct_MaterialParamString_t__int____struct_MaterialParamString_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialParamTexture_t__class_CUtlMemory_struct_MaterialParamTexture_t__int____struct_MaterialParamTexture_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_MaterialParamVector_t__class_CUtlMemory_struct_MaterialParamVector_t__int____struct_MaterialParamVector_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_NodeData_t__class_CUtlMemory_struct_NodeData_t__int____struct_NodeData_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_RenderInputLayoutField_t__class_CUtlMemory_struct_RenderInputLayoutField_t__int____struct_RenderInputLayoutField_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_ResourceBlockInfo_t__class_CUtlMemory_struct_ResourceBlockInfo_t__int____struct_ResourceBlockInfo_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_SceneObject_t__class_CUtlMemory_struct_SceneObject_t__int____struct_SceneObject_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_WorldNodeOnDiskBufferData_t__class_CUtlMemory_struct_WorldNodeOnDiskBufferData_t__int____struct_WorldNodeOnDiskBufferData_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_matrix3x4_t__class_CUtlMemory_struct_matrix3x4_t__int____struct_matrix3x4_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_voxel_vis_cluster_t__class_CUtlMemory_struct_voxel_vis_cluster_t__int____struct_voxel_vis_cluster_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_struct_voxel_vis_mergelist_t__class_CUtlMemory_struct_voxel_vis_mergelist_t__int____struct_voxel_vis_mergelist_t_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_unsigned_char__class_CUtlMemory_unsigned_char__int____unsigned_char_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_unsigned_int__class_CUtlMemory_unsigned_int__int____unsigned_int_: ISchemaCollectionManipulator
+CSchemaUtlVectorManipulator_class_CUtlVector_unsigned_short_int__class_CUtlMemory_unsigned_short_int__int____unsigned_short_int_: ISchemaCollectionManipulator
+CScriptAccessorT_class_CDefScriptAccessorBase__1_
+CScriptComponent: CEntityComponent, CScriptScopeT_class_CDefScriptAccessorBase__1_, CScriptAccessorT_class_CDefScriptAccessorBase__1_, CDefScriptAccessorBase
+CScriptScopeT_class_CDefScriptAccessorBase__1_
+CSelection: IUndoable
+CSelectionSetDataElement: CDmElement
+CSelectionSet_class_CDotaTileSelectionItem_: ISelectionSet, ITransformable
+CSelectionSet_class_CMapNode_____ptr64_: ISelectionSet, ITransformable
+CSelectionSet_class_CMeshEdge_: ISelectionSet, ITransformable
+CSelectionSet_class_CMeshFace_: ISelectionSet, ITransformable
+CSelectionSet_class_CMeshVertex_: ISelectionSet, ITransformable
+CSelectionSet_class_CSmartPtr_class_CSelectionHandle__class_CRefCountAccessor__: ISelectionSet, ITransformable
+CSelectionStateBackup: IUndoable
+CSequenceListHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSequenceListHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSequenceListHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSimpleAssetTypeInfo
+CSimpleSceneObjectContainer: IToolSceneObjectContainer
+CSkyboxHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSkyboxHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSkyboxHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSphereHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSphereHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CSphereHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CStaticOverlayInstanceUpdateJob: IProceduralUpdateJob
+CSteamAudioProbeNode: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CSteamAudioProbeNode_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CSteamAudioProbeNode_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CSteamAudioProbeNode_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CSteamAudioProbeNode_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CStoredCamera: CDmElement
+CStoredCameras: CDmElement
+CStreamDataBuffer_class_Vector2D_: IStreamDataBuffer
+CStreamDataBuffer_class_Vector4D_: IStreamDataBuffer
+CStreamDataBuffer_class_Vector_: IStreamDataBuffer
+CStreamDataBuffer_float_: IStreamDataBuffer
+CStreamDataBuffer_int_: IStreamDataBuffer
+CThinkableHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CThinkableHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CThinkableHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CThreadedFileLogger: CThreadedLogger
+CThreadedJob: CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CThreadedJob_1: CRefCounted1_class_IRefCounted__class_CRefCountServiceBase_1__class_CRefMT__, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+CThreadedLogger
+CTier0AppSystem_class_IApplication_
+CTier0AppSystem_class_IResourceCompilerSystem_
+CTier1AppSystemDict
+CTier1AppSystem_class_IApplication__0_
+CTier1AppSystem_class_IResourceCompilerSystem__0_
+CTier1Application: CTier1AppSystem_class_IApplication__0_, CTier0AppSystem_class_IApplication_, CBaseAppSystem_class_IApplication_, IApplication, IAppSystem
+CTier2AppSystemDict: CTier1AppSystemDict, CAppSystemDict
+CTier2AppSystem_class_IResourceCompilerSystem__0_
+CTier2Application: CTier1Application, CTier1AppSystem_class_IApplication__0_, CTier0AppSystem_class_IApplication_, CBaseAppSystem_class_IApplication_, IApplication, IAppSystem
+CTier2DmAppSystem_class_IResourceCompilerSystem__0_
+CTier3DmAppSystem_class_IResourceCompilerSystem__0_
+CTileGridTransformationBaseLine: ITransformationBaseline
+CTileSetGrassParameters: CDmElement
+CTileSetMaterialSet: CDmElement
+CTileSetProperty: CDmElement
+CToneMappingHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CToneMappingHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CToneMappingHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CToneMappingLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CToolEventMapRegistrationHelper_class_CCordonMgr_: IToolEventDispatcherLifetimeListener
+CToolEventMapRegistrationHelper_class_CDebugDrawRayTracingEnvironment_: IToolEventDispatcherLifetimeListener
+CToolModelInstance_ConfigNode: CBaseToolsModelInstance, IModelConfigPreviewHost
+CToolRenderable
+CToolTextureCache: IAssetFileListener
+CTrajectoryPath: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CTrajectoryPathNode: CMapPathNode_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, This_T_Decorator_class_CTrajectoryPathNode_
+CTrajectoryPathNode_1: CMapPathNode_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, This_T_Decorator_class_CTrajectoryPathNode_
+CTrajectoryPathNode_2: CMapPathNode_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, This_T_Decorator_class_CTrajectoryPathNode_
+CTrajectoryPathNode_3: CMapPathNode_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, This_T_Decorator_class_CTrajectoryPathNode_
+CTrajectoryPathNode_4: CMapPathNode_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable, This_T_Decorator_class_CTrajectoryPathNode_
+CTrajectoryPath_1: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CTrajectoryPath_2: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CTrajectoryPath_3: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CTrajectoryPath_4: CMapPath_4, CMapEntity_4, CMapGameDataNode_4, CMapEntityIONode_4, CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CTransformationBaselineArray: ITransformationBaseline
+CTypedLogLayerSampleData_bool_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_CUtlSymbolLarge_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_Color_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_DmeTime_t_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_QAngle_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_Quaternion_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_VMatrix_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_Vector2D_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_Vector4D_: CLogLayerSampleData
+CTypedLogLayerSampleData_class_Vector_: CLogLayerSampleData
+CTypedLogLayerSampleData_float_: CLogLayerSampleData
+CTypedLogLayerSampleData_int_: CLogLayerSampleData
+CTypedLogLayerSampleData_unsigned_char_: CLogLayerSampleData
+CTypedLogLayerSampleData_unsigned_long_long_unsigned___int64__: CLogLayerSampleData
+CUndoArrayAttributeSetMultipleValueElement_bool_: CUndoAttributeArrayBase_bool_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_CUtlBinaryBlock_: CUndoAttributeArrayBase_class_CUtlBinaryBlock_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_CUtlSymbolLarge_: CUndoAttributeArrayBase_class_CUtlSymbolLarge_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_Color_: CUndoAttributeArrayBase_class_Color_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_DmeTime_t_: CUndoAttributeArrayBase_class_DmeTime_t_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_QAngle_: CUndoAttributeArrayBase_class_QAngle_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_Quaternion_: CUndoAttributeArrayBase_class_Quaternion_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_VMatrix_: CUndoAttributeArrayBase_class_VMatrix_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_Vector2D_: CUndoAttributeArrayBase_class_Vector2D_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_Vector4D_: CUndoAttributeArrayBase_class_Vector4D_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_class_Vector_: CUndoAttributeArrayBase_class_Vector_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_enum_DmElementHandle_t_: CUndoAttributeArrayBase_enum_DmElementHandle_t_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_float_: CUndoAttributeArrayBase_float_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_int_: CUndoAttributeArrayBase_int_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_unsigned_char_: CUndoAttributeArrayBase_unsigned_char_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetMultipleValueElement_unsigned_long_long_unsigned___int64__: CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_bool_: CUndoAttributeArrayBase_bool_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_CUtlBinaryBlock_: CUndoAttributeArrayBase_class_CUtlBinaryBlock_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_CUtlSymbolLarge_: CUndoAttributeArrayBase_class_CUtlSymbolLarge_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_Color_: CUndoAttributeArrayBase_class_Color_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_DmeTime_t_: CUndoAttributeArrayBase_class_DmeTime_t_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_QAngle_: CUndoAttributeArrayBase_class_QAngle_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_Quaternion_: CUndoAttributeArrayBase_class_Quaternion_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_VMatrix_: CUndoAttributeArrayBase_class_VMatrix_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_Vector2D_: CUndoAttributeArrayBase_class_Vector2D_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_Vector4D_: CUndoAttributeArrayBase_class_Vector4D_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_class_Vector_: CUndoAttributeArrayBase_class_Vector_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_enum_DmElementHandle_t_: CUndoAttributeArrayBase_enum_DmElementHandle_t_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_float_: CUndoAttributeArrayBase_float_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_int_: CUndoAttributeArrayBase_int_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_unsigned_char_: CUndoAttributeArrayBase_unsigned_char_, CUndoElement, IUndoElement
+CUndoArrayAttributeSetValueElement_unsigned_long_long_unsigned___int64__: CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__, CUndoElement, IUndoElement
+CUndoAttributeAddRemove: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_bool_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_CUtlBinaryBlock_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_CUtlSymbolLarge_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_Color_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_DmeTime_t_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_QAngle_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_Quaternion_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_VMatrix_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_Vector2D_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_Vector4D_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_class_Vector_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_enum_DmElementHandle_t_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_float_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_int_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_unsigned_char_: CUndoElement, IUndoElement
+CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__: CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_bool_: CUndoAttributeArrayBase_bool_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_CUtlBinaryBlock_: CUndoAttributeArrayBase_class_CUtlBinaryBlock_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_CUtlSymbolLarge_: CUndoAttributeArrayBase_class_CUtlSymbolLarge_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_Color_: CUndoAttributeArrayBase_class_Color_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_DmeTime_t_: CUndoAttributeArrayBase_class_DmeTime_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_QAngle_: CUndoAttributeArrayBase_class_QAngle_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_Quaternion_: CUndoAttributeArrayBase_class_Quaternion_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_VMatrix_: CUndoAttributeArrayBase_class_VMatrix_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_Vector2D_: CUndoAttributeArrayBase_class_Vector2D_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_Vector4D_: CUndoAttributeArrayBase_class_Vector4D_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_class_Vector_: CUndoAttributeArrayBase_class_Vector_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_enum_DmElementHandle_t_: CUndoAttributeArrayBase_enum_DmElementHandle_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_float_: CUndoAttributeArrayBase_float_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_int_: CUndoAttributeArrayBase_int_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_unsigned_char_: CUndoAttributeArrayBase_unsigned_char_, CUndoElement, IUndoElement
+CUndoAttributeArrayCopyAllElement_unsigned_long_long_unsigned___int64__: CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_bool_: CUndoAttributeArrayBase_bool_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_CUtlBinaryBlock_: CUndoAttributeArrayBase_class_CUtlBinaryBlock_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_CUtlSymbolLarge_: CUndoAttributeArrayBase_class_CUtlSymbolLarge_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_Color_: CUndoAttributeArrayBase_class_Color_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_DmeTime_t_: CUndoAttributeArrayBase_class_DmeTime_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_QAngle_: CUndoAttributeArrayBase_class_QAngle_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_Quaternion_: CUndoAttributeArrayBase_class_Quaternion_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_VMatrix_: CUndoAttributeArrayBase_class_VMatrix_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_Vector2D_: CUndoAttributeArrayBase_class_Vector2D_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_Vector4D_: CUndoAttributeArrayBase_class_Vector4D_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_class_Vector_: CUndoAttributeArrayBase_class_Vector_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_enum_DmElementHandle_t_: CUndoAttributeArrayBase_enum_DmElementHandle_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_float_: CUndoAttributeArrayBase_float_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_int_: CUndoAttributeArrayBase_int_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_unsigned_char_: CUndoAttributeArrayBase_unsigned_char_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertBefore_unsigned_long_long_unsigned___int64__: CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_bool_: CUndoAttributeArrayBase_bool_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_CUtlBinaryBlock_: CUndoAttributeArrayBase_class_CUtlBinaryBlock_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_CUtlSymbolLarge_: CUndoAttributeArrayBase_class_CUtlSymbolLarge_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_Color_: CUndoAttributeArrayBase_class_Color_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_DmeTime_t_: CUndoAttributeArrayBase_class_DmeTime_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_QAngle_: CUndoAttributeArrayBase_class_QAngle_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_Quaternion_: CUndoAttributeArrayBase_class_Quaternion_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_VMatrix_: CUndoAttributeArrayBase_class_VMatrix_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_Vector2D_: CUndoAttributeArrayBase_class_Vector2D_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_Vector4D_: CUndoAttributeArrayBase_class_Vector4D_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_class_Vector_: CUndoAttributeArrayBase_class_Vector_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_enum_DmElementHandle_t_: CUndoAttributeArrayBase_enum_DmElementHandle_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_float_: CUndoAttributeArrayBase_float_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_int_: CUndoAttributeArrayBase_int_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_unsigned_char_: CUndoAttributeArrayBase_unsigned_char_, CUndoElement, IUndoElement
+CUndoAttributeArrayInsertCopyBefore_unsigned_long_long_unsigned___int64__: CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_bool_: CUndoAttributeArrayBase_bool_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_CUtlBinaryBlock_: CUndoAttributeArrayBase_class_CUtlBinaryBlock_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_CUtlSymbolLarge_: CUndoAttributeArrayBase_class_CUtlSymbolLarge_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_Color_: CUndoAttributeArrayBase_class_Color_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_DmeTime_t_: CUndoAttributeArrayBase_class_DmeTime_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_QAngle_: CUndoAttributeArrayBase_class_QAngle_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_Quaternion_: CUndoAttributeArrayBase_class_Quaternion_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_VMatrix_: CUndoAttributeArrayBase_class_VMatrix_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_Vector2D_: CUndoAttributeArrayBase_class_Vector2D_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_Vector4D_: CUndoAttributeArrayBase_class_Vector4D_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_class_Vector_: CUndoAttributeArrayBase_class_Vector_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_enum_DmElementHandle_t_: CUndoAttributeArrayBase_enum_DmElementHandle_t_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_float_: CUndoAttributeArrayBase_float_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_int_: CUndoAttributeArrayBase_int_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_unsigned_char_: CUndoAttributeArrayBase_unsigned_char_, CUndoElement, IUndoElement
+CUndoAttributeArrayRemoveElement_unsigned_long_long_unsigned___int64__: CUndoAttributeArrayBase_unsigned_long_long_unsigned___int64__, CUndoElement, IUndoElement
+CUndoAttributeRenameElement: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_bool_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_CUtlBinaryBlock_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_CUtlSymbolLarge_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_Color_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_DmeTime_t_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_QAngle_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_Quaternion_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_VMatrix_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_Vector2D_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_Vector4D_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_class_Vector_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_enum_DmElementHandle_t_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_float_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_int_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_unsigned_char_: CUndoElement, IUndoElement
+CUndoAttributeSetValueElement_unsigned_long_long_unsigned___int64__: CUndoElement, IUndoElement
+CUndoCreateElement: CUndoElement, IUndoElement
+CUndoDestroyElement: CUndoElement, IUndoElement
+CUndoElement: IUndoElement
+CUndoFlattenLayers: CUndoElement, IUndoElement
+CUndoLayerAdded_bool_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_CUtlSymbolLarge_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_Color_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_DmeTime_t_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_QAngle_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_Quaternion_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_VMatrix_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_Vector2D_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_Vector4D_: CUndoElement, IUndoElement
+CUndoLayerAdded_class_Vector_: CUndoElement, IUndoElement
+CUndoLayerAdded_float_: CUndoElement, IUndoElement
+CUndoLayerAdded_int_: CUndoElement, IUndoElement
+CUndoLayerAdded_unsigned_char_: CUndoElement, IUndoElement
+CUndoLayerAdded_unsigned_long_long_unsigned___int64__: CUndoElement, IUndoElement
+CUtlMultiJobProcessor
+CUtlStackMachineBuilder
+CVertexListSceneObject: CSceneObject, IGenericInterface, IVertexListObject, IToolSceneObjectContainer
+CVertexListSceneObject_1: CSceneObject, IGenericInterface, IVertexListObject, IToolSceneObjectContainer
+CVertexSelectionSetDataElement: CSelectionSetDataElement, CDmElement
+CVfxMaterialParamStackMachineBuilder: CVfxStackMachineBuilder, CUtlStackMachineBuilder
+CVfxStackMachineBuilder: CUtlStackMachineBuilder
+CVibranceColorCorrectionLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CViewerHelper: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CViewerHelper_1: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CViewerHelper_2: CSphereHelper, CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CVignetteLayer: CColorCorrectionLayer, CBaseUndoable, IUndoable
+CVisibilityMgr: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CVisibilityMgr_1: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CVisibilityMgr_2: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CVisibilityMgr_3: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CVisibilityMgr_4: CMapNode_4, CMapPoint, CMapAtom, CDmElement, IUndoable, IToolRenderCallbacks, IHitTestable, ITransformable
+CVolumetricFogControllerHelper: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CVolumetricFogControllerHelper_1: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+CVolumetricFogControllerHelper_2: CBaseHelper, IToolRenderCallbacks, IHitTestable, IManipulatorTarget
+ConCommand: ConCommandBase
+ConCommandBase
+ConVar: ConCommandBase, IConVar
+ConVar_1: ConCommandBase, IConVar
+Concurrency::Context
+Concurrency::IExecutionContext
+Concurrency::IExecutionResource
+Concurrency::IResourceManager
+Concurrency::IScheduler
+Concurrency::ISchedulerProxy
+Concurrency::IThreadProxy
+Concurrency::ITopologyExecutionResource
+Concurrency::ITopologyNode
+Concurrency::IVirtualProcessorRoot
+Concurrency::ScheduleGroup
+Concurrency::Scheduler
+Concurrency::context_self_unblock: std::exception
+Concurrency::context_unblock_unbalanced: std::exception
+Concurrency::details::CacheLocalScheduleGroup: Concurrency::details::ScheduleGroupBase, Concurrency::ScheduleGroup
+Concurrency::details::CacheLocalScheduleGroupSegment: Concurrency::details::ScheduleGroupSegmentBase
+Concurrency::details::CancellationTokenRegistration_TaskProc: Concurrency::details::_CancellationTokenRegistration, Concurrency::details::_RefCounter
+Concurrency::details::ContextBase: Concurrency::Context
+Concurrency::details::ExecutionResource: Concurrency::IExecutionResource
+Concurrency::details::ExternalContextBase: Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::FairScheduleGroup: Concurrency::details::ScheduleGroupBase, Concurrency::ScheduleGroup
+Concurrency::details::FairScheduleGroupSegment: Concurrency::details::ScheduleGroupSegmentBase
+Concurrency::details::FreeThreadProxy: Concurrency::details::ThreadProxy, Concurrency::IThreadProxy
+Concurrency::details::FreeThreadProxyFactory: Concurrency::details::ThreadProxyFactory_class_Concurrency::details::FreeThreadProxy_, Concurrency::details::IThreadProxyFactory
+Concurrency::details::FreeVirtualProcessorRoot: Concurrency::details::VirtualProcessorRoot, Concurrency::IVirtualProcessorRoot, Concurrency::IExecutionResource
+Concurrency::details::GlobalCore::TopologyObject: Concurrency::ITopologyExecutionResource
+Concurrency::details::GlobalNode::TopologyObject: Concurrency::ITopologyNode
+Concurrency::details::IThreadProxyFactory
+Concurrency::details::InternalContextBase: Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::InternalContextBase_1: Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::MultiWaitBlock: Concurrency::details::WaitBlock
+Concurrency::details::RealizedChore: Concurrency::details::_Chore
+Concurrency::details::ResourceManager: Concurrency::IResourceManager
+Concurrency::details::ScheduleGroupBase: Concurrency::ScheduleGroup
+Concurrency::details::ScheduleGroupSegmentBase
+Concurrency::details::SchedulerBase: Concurrency::Scheduler
+Concurrency::details::SchedulerProxy: Concurrency::ISchedulerProxy
+Concurrency::details::SingleWaitBlock: Concurrency::details::WaitBlock
+Concurrency::details::ThreadInternalContext: Concurrency::details::InternalContextBase_1, Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::ThreadInternalContext_1: Concurrency::details::InternalContextBase_1, Concurrency::IExecutionContext, Concurrency::details::ContextBase, Concurrency::Context
+Concurrency::details::ThreadProxy: Concurrency::IThreadProxy
+Concurrency::details::ThreadProxyFactory_class_Concurrency::details::FreeThreadProxy_: Concurrency::details::IThreadProxyFactory
+Concurrency::details::ThreadScheduler: Concurrency::IScheduler, Concurrency::details::SchedulerBase, Concurrency::Scheduler
+Concurrency::details::ThreadScheduler_1: Concurrency::IScheduler, Concurrency::details::SchedulerBase, Concurrency::Scheduler
+Concurrency::details::ThreadVirtualProcessor: Concurrency::details::VirtualProcessor
+Concurrency::details::TimedSingleWaitBlock: Concurrency::details::SingleWaitBlock, Concurrency::details::WaitBlock
+Concurrency::details::VirtualProcessor
+Concurrency::details::VirtualProcessorRoot: Concurrency::IVirtualProcessorRoot, Concurrency::IExecutionResource
+Concurrency::details::WaitAllBlock: Concurrency::details::MultiWaitBlock, Concurrency::details::WaitBlock
+Concurrency::details::WaitAnyBlock: Concurrency::details::MultiWaitBlock, Concurrency::details::WaitBlock
+Concurrency::details::WaitBlock
+Concurrency::details::_CancellationTokenCallback_class__lambda_be3e5d9dce35d2c8dbfa8485373731d5__: Concurrency::details::_CancellationTokenRegistration, Concurrency::details::_RefCounter
+Concurrency::details::_CancellationTokenRegistration: Concurrency::details::_RefCounter
+Concurrency::details::_Chore
+Concurrency::details::_DefaultPPLTaskScheduler: Concurrency::scheduler_interface
+Concurrency::details::_Interruption_exception: std::exception
+Concurrency::details::_MallocaArrayHolder_class_Concurrency::Context_____ptr64_
+Concurrency::details::_MallocaArrayHolder_class_Concurrency::event_____ptr64_
+Concurrency::details::_RefCounter
+Concurrency::details::_TaskProcHandle
+Concurrency::details::_Task_impl_base
+Concurrency::details::_Task_impl_unsigned_char_: Concurrency::details::_Task_impl_base
+Concurrency::details::stl_condition_variable_concrt: Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_condition_variable_vista: Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_condition_variable_win7: Concurrency::details::stl_condition_variable_interface
+Concurrency::details::stl_critical_section_concrt: Concurrency::details::stl_critical_section_interface
+Concurrency::details::stl_critical_section_interface
+Concurrency::details::stl_critical_section_vista: Concurrency::details::stl_critical_section_interface
+Concurrency::details::stl_critical_section_win7: Concurrency::details::stl_critical_section_interface
+Concurrency::improper_lock: std::exception
+Concurrency::improper_scheduler_attach: std::exception
+Concurrency::improper_scheduler_reference: std::exception
+Concurrency::invalid_operation: std::exception
+Concurrency::invalid_oversubscribe_operation: std::exception
+Concurrency::invalid_scheduler_policy_key: std::exception
+Concurrency::invalid_scheduler_policy_thread_specification: std::exception
+Concurrency::invalid_scheduler_policy_value: std::exception
+Concurrency::missing_wait: std::exception
+Concurrency::nested_scheduler_missing_detach: std::exception
+Concurrency::scheduler_interface
+Concurrency::scheduler_resource_allocation_error: std::exception
+Concurrency::scheduler_worker_creation_error: Concurrency::scheduler_resource_allocation_error, std::exception
+Concurrency::task_unsigned_char_::_InitialTaskHandle_void__class__lambda_5a9ef80d79df7873994019ff15dceae5___struct_Concurrency::details::_TypeSelectorNoAsync_: Concurrency::details::_TaskProcHandle
+Concurrency::task_unsigned_char_::_InitialTaskHandle_void__class__lambda_60c5de84e69e46aa92419d47e2f3ad51___struct_Concurrency::details::_TypeSelectorNoAsync_: Concurrency::details::_TaskProcHandle
+Concurrency::task_unsigned_char_::_InitialTaskHandle_void__class__lambda_85226a1ade6d27c19b16702c44b1a394___struct_Concurrency::details::_TypeSelectorNoAsync_: Concurrency::details::_TaskProcHandle
+Concurrency::task_unsigned_char_::_InitialTaskHandle_void__class__lambda_e7905d7dbd7cab7f9b19199433c4f5d3___struct_Concurrency::details::_TypeSelectorNoAsync_: Concurrency::details::_TaskProcHandle
+Concurrency::unsupported_os: std::exception
+Etc::Block4x4Encoding
+Etc::Block4x4Encoding_ETC1: Etc::Block4x4Encoding
+Etc::Block4x4Encoding_R11: Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RG11: Etc::Block4x4Encoding_R11, Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGB8: Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGB8A1: Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGB8A1_Opaque: Etc::Block4x4Encoding_RGB8A1, Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGB8A1_Transparent: Etc::Block4x4Encoding_RGB8A1, Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGBA8: Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGBA8_Opaque: Etc::Block4x4Encoding_RGBA8, Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+Etc::Block4x4Encoding_RGBA8_Transparent: Etc::Block4x4Encoding_RGBA8, Etc::Block4x4Encoding_RGB8, Etc::Block4x4Encoding_ETC1, Etc::Block4x4Encoding
+FindByTypeVisitor: IElementVisitor
+IAppSystem
+IApplication: IAppSystem
+IAssertionFailureListener
+IAssetFileListener
+IBoundingBoxChangeListener
+IChoreoStringPool
+IChoreoStringPoolBuilder
+ICompressCoder
+ICompressSetCoderProperties
+ICompressSetOutStream
+ICompressWriteCoderProperties
+IConVar
+ICurveDataAccessor
+IDataModel
+IDmAttributeOp
+IDmElementFramework
+IDmLegacyUpdater
+IDmeOperator
+IElementForKeyValueCallback
+IElementVisitor
+IFbxSystem
+IFileLoggingListener
+IGenericInterface
+IGridData
+IHammerClipboard
+IHammerMapNode
+IHammerMeshChangeListener
+IHitTestable
+IInWindowStream
+IKV3TransferInterface_ResourceSave
+IKeyValuesErrorSpew
+ILoggingListener
+IManipulatorTarget
+IMapBuilderContext
+IMapFileReference
+IMapReferenceOwner
+IMatchFinder
+IMatchFinderSetNumPasses
+IModelConfigPreviewHost
+INavEditMeshChangeListener
+IOpCodeHandler_int_
+IOpEvaluator_int_
+IP4ConfigFileCache
+IParticleEffect
+IParticlePropertyOuter
+IParticleSystemQuery
+IParticlesLibHost
+IPolyMeshTextureAlgorithmAxes
+IProceduralUpdateJob
+IRefCounted
+IRegisterResourceReference
+IRenderDeviceSetup
+IResourceCompilerContext
+IResourceCompilerContextChild
+IResourceCompilerContextSister
+IResourceCompilerSystem
+IResourceCustomDependencyContext
+IResourceTypeCompiler
+ISchemaCollectionManipulator
+ISelectionSet: ITransformable
+ISequentialInStream
+ISequentialOutStream
+IStreamDataBuffer
+ITilePropertyNode
+ITileSetMapReference
+IToolEventDispatcherLifetimeListener
+IToolObjectContext
+IToolRenderCallbacks
+IToolSceneObjectContainer
+ITransformable
+ITransformationBaseline
+IUndoDoc
+IUndoElement
+IUndoListener
+IUndoable
+IUnknown
+IVertexListObject
+NBT2::CMatchFinder: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT2::CMatchFinder_1: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT2::CMatchFinder_2: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT3::CMatchFinder: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT3::CMatchFinder_1: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT3::CMatchFinder_2: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT4::CMatchFinder: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT4::CMatchFinder_1: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NBT4::CMatchFinder_2: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NCompress::NLZMA::CBaseState
+NCompress::NLZMA::CEncoder: ICompressCoder, IUnknown, ICompressSetOutStream, IUnknown, ICompressSetCoderProperties, IUnknown, ICompressWriteCoderProperties, IUnknown, NCompress::NLZMA::CBaseState, CMyUnknownImp
+NCompress::NLZMA::CEncoder_1: ICompressCoder, IUnknown, ICompressSetOutStream, IUnknown, ICompressSetCoderProperties, IUnknown, ICompressWriteCoderProperties, IUnknown, NCompress::NLZMA::CBaseState, CMyUnknownImp
+NCompress::NLZMA::CEncoder_2: ICompressCoder, IUnknown, ICompressSetOutStream, IUnknown, ICompressSetCoderProperties, IUnknown, ICompressWriteCoderProperties, IUnknown, NCompress::NLZMA::CBaseState, CMyUnknownImp
+NCompress::NLZMA::CEncoder_3: ICompressCoder, IUnknown, ICompressSetOutStream, IUnknown, ICompressSetCoderProperties, IUnknown, ICompressWriteCoderProperties, IUnknown, NCompress::NLZMA::CBaseState, CMyUnknownImp
+NHC4::CMatchFinder: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NHC4::CMatchFinder_1: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+NHC4::CMatchFinder_2: IMatchFinder, IInWindowStream, IUnknown, CLZInWindow, CMyUnknownImp, IMatchFinderSetNumPasses
+This_T_Decorator_class_CTrajectoryPathNode_
+__AVCGlobalHammerClipboard__1__GetHammerClipboard__YAPEAVCHammerClipboard__XZ_: CHammerClipboard, IHammerClipboard
+__AV__CMemberFunctor0_PEAVCP4FileInfoCache__P81_EAAXXZV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor0_PEAVCP4FileInfoCache__P81_EAAXXZV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor0_PEAVCParticleJobUpdater__A0xa300dbff__P812_EAAXXZV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor0_PEAVCParticleJobUpdater__A0xa300dbff__P812_EAAXXZV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAV__CParallelProcessorAbstract_V__CFunctorParallelController_V_lambda_2d9e57603846de8b5694c16539ed7475_______P81_EAAXH_ZHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAV__CParallelProcessorAbstract_V__CFunctorParallelController_V_lambda_2d9e57603846de8b5694c16539ed7475_______P81_EAAXH_ZHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAV__CParallelProcessorAbstract_V__CParallelProcessor_HV__CLambdaJobItemProcessor_H___00____P81_EAAXH_ZHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor1_PEAV__CParallelProcessorAbstract_V__CParallelProcessor_HV__CLambdaJobItemProcessor_H___00____P81_EAAXH_ZHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor6_PEAVCSOAContainer__P81_EAAXHHHHHT__m128___ZHHHHHT2_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor6_PEAVCSOAContainer__P81_EAAXHHHHHT__m128___ZHHHHHT2_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor7_PEAVCSOAContainer__P81_EAAXHHHHPEBV1_HH_ZHHHHPEBV1_HHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor7_PEAVCSOAContainer__P81_EAAXHHHHPEBV1_HH_ZHHHHPEBV1_HHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor7_PEAVCSOAContainer__P81_EAAXPEAV1_HHHHHH_ZPEAV1_HHHHHHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor7_PEAVCSOAContainer__P81_EAAXPEAV1_HHHHHH_ZPEAV1_HHHHHHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVCSOAContainer__P81_EAAXHHHHPEBV1_HHH_ZHHHHPEBV1_HHHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVCSOAContainer__P81_EAAXHHHHPEBV1_HHH_ZHHHHPEBV1_HHHV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVRayTracingEnvironment__P81_EAAXHPEBHHPEBUTriangleBounds_t__VVector__2HPEAVCUtlMultiJobProcessor___ZHPEAHHPEAU2_V3_V3_HPEAV4_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVRayTracingEnvironment__P81_EAAXHPEBHHPEBUTriangleBounds_t__VVector__2HPEAVCUtlMultiJobProcessor___ZHPEAHHPEAU2_V3_V3_HPEAV4_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVRayTracingEnvironment__P81_EAAXHPEBHHPEBUTriangleBounds_t__VVector__2HPEAVCUtlMultiJobProcessor___ZHPEAHHPEBU2_V3_V3_HPEAV4_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVRayTracingEnvironment__P81_EAAXHPEBHHPEBUTriangleBounds_t__VVector__2HPEAVCUtlMultiJobProcessor___ZHPEAHHPEBU2_V3_V3_HPEAV4_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVRayTracingEnvironment__P81_EBAXHHPEAUSplitStats_t__PEBHHPEBUTriangleBounds_t__VVector__3_ZHHPEAU2_PEBHHPEBU3_V4_V4_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor8_PEAVRayTracingEnvironment__P81_EBAXHHPEAUSplitStats_t__PEBHHPEBUTriangleBounds_t__VVector__3_ZHHPEAU2_PEBHHPEBU3_V4_V4_V__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor9_PEAVCSOAContainer__P81_EAAXHHHHHHHVVector___N_ZHHHHHHHV2__NV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone____: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV__CMemberFunctor9_PEAVCSOAContainer__P81_EAAXHHHHHHHVVector___N_ZHHHHHHHV2__NV__CRefCounted1_VCFunctor__V__CRefCountServiceBase__00VCRefMT______VCFuncMemPolicyNone_____1: CRefCounted1_class_CFunctor__class_CRefCountServiceBase_1__class_CRefMT__, CFunctor, IRefCounted, CRefCountServiceBase_1__class_CRefMT_
+__AV___Func_base_E__V_std__
+__AV___Func_base_I__V_std__
+__AV___Func_base_X__V_std__
+__AV___Func_impl_V___Fake_no_copy_callable_adapter_P8Image_Etc__EAAIIII_ZQEAV12_AEAIAEAHAEAI_std__V__allocator_H_2_I__V_std__: __AV___Func_base_I__V_std__
+__AV___Func_impl_V___Fake_no_copy_callable_adapter_P8Image_Etc__EAAXII_ZQEAV12_AEAHAEAI_std__V__allocator_H_2_X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_54fedc5b46335bf25c7b076395d32c74___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_5a9ef80d79df7873994019ff15dceae5___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_60c5de84e69e46aa92419d47e2f3ad51___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_713ee8bbd6b08550d59c52695cab5ce3___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_763529b0c7473cbc215a52d189ac9b18___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_85226a1ade6d27c19b16702c44b1a394___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_ad753c1e821d108e1a311dfa79cd9d31___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_e0b623a606acfd10554dbddbb0c1a7da___V__allocator_H_std__E__V_std__: __AV___Func_base_E__V_std__
+__AV___Func_impl_V_lambda_e7905d7dbd7cab7f9b19199433c4f5d3___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_f25c37099038263181b5186a3fa41b37___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Func_impl_V_lambda_fd71c935fd7795d0ff8d159bddfc1ad2___V__allocator_H_std__X__V_std__: __AV___Func_base_X__V_std__
+__AV___Packaged_state___A6AIXZ_std__: std::_Associated_state_unsigned_int_
+__AV___Packaged_state___A6AXXZ_std__: std::_Associated_state_int_
+basic_stringbuf_char__struct_std::char_traits_char___class_allocator_char__: std::basic_streambuf_char__struct_std::char_traits_char__
+basic_stringstream_char__struct_std::char_traits_char___class_allocator_char__: std::basic_iostream_char__struct_std::char_traits_char__, std::basic_istream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_, std::basic_ostream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::_Associated_state_int_
+std::_Associated_state_unsigned_int_
+std::_Crt_new_delete
+std::_Deferred_async_state_unsigned_int_: __AV___Packaged_state___A6AIXZ_std__, std::_Associated_state_unsigned_int_
+std::_Deferred_async_state_void_: __AV___Packaged_state___A6AXXZ_std__, std::_Associated_state_int_
+std::_Facet_base
+std::_Func_base_bool__char_const_____ptr64_
+std::_Func_base_bool__class_CNavArea_____ptr64_
+std::_Func_base_bool__class_CUtlStringToken_
+std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_0760b0e512ddddebef09f948d4dd4071___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_370fa937642818b179c4e2d6c5ebd48d___class_std::allocator_int___bool__class_CNavArea_____ptr64_: std::_Func_base_bool__class_CNavArea_____ptr64_
+std::_Func_impl_class__lambda_5551af60b14f00cdfaa7537c8253bf4a___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_5d1e501df15b28cc6f8f9514b0556e50___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_63a4bffa0019ddfb7183ea09b8bcde8b___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_7a64351339404d7c272e9cbb666424bc___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_84f963861dffe6b6b7a4cba1c7a1dfac___class_std::allocator_int___bool__class_CUtlStringToken_: std::_Func_base_bool__class_CUtlStringToken_
+std::_Func_impl_class__lambda_9d51f794d6f65a179fa2b1d30c20b787___class_std::allocator_int___bool__char_const_____ptr64_: std::_Func_base_bool__char_const_____ptr64_
+std::_Func_impl_class__lambda_b941524bda65c007b960207a584dce78___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_dc37bdb35edf75872f22ec4c6cad54c3___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Func_impl_class__lambda_e24f388245c7afe6bcbac5ee72d79b26___class_std::allocator_int___bool__char_const_____ptr64_: std::_Func_base_bool__char_const_____ptr64_
+std::_Func_impl_class__lambda_fac74c1338e5afbc2423a21681fc11b7___class_std::allocator_int___void__int_____ptr64_: std::_Func_base_void__int_____ptr64_
+std::_Future_error_category: std::_Generic_error_category, std::error_category
+std::_Generic_error_category: std::error_category
+std::_Iosb_int_
+std::_Iostream_error_category: std::_Generic_error_category, std::error_category
+std::_Pad
+std::_Ref_count_base
+std::_Ref_count_obj_alloc_class___ExceptionPtr__struct__StaticAllocator_int__: std::_Ref_count_base
+std::_Ref_count_obj_class___ExceptionPtr_: std::_Ref_count_base
+std::_Ref_count_obj_struct_Concurrency::details::_ExceptionHolder_: std::_Ref_count_base
+std::_Ref_count_obj_struct_Concurrency::details::_Task_impl_unsigned_char__: std::_Ref_count_base
+std::_System_error: std::runtime_error, stdext::exception
+std::_Task_async_state_unsigned_int__0_: __AV___Packaged_state___A6AIXZ_std__, std::_Associated_state_unsigned_int_
+std::_Task_async_state_unsigned_int__1_: __AV___Packaged_state___A6AIXZ_std__, std::_Associated_state_unsigned_int_
+std::_Task_async_state_void__0_: __AV___Packaged_state___A6AXXZ_std__, std::_Associated_state_int_
+std::_Task_async_state_void__1_: __AV___Packaged_state___A6AXXZ_std__, std::_Associated_state_int_
+std::__non_rtti_object: std::bad_typeid, std::exception
+std::bad_alloc: std::exception
+std::bad_cast: std::exception
+std::bad_exception: std::exception
+std::bad_function_call: std::exception
+std::bad_typeid: std::exception
+std::basic_ios_char__struct_std::char_traits_char__: std::ios_base, std::_Iosb_int_
+std::basic_iostream_char__struct_std::char_traits_char__: std::basic_istream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_, std::basic_ostream_char__struct_std::char_traits_char__, std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_istream_char__struct_std::char_traits_char__: std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_ostream_char__struct_std::char_traits_char__: std::basic_ios_char__struct_std::char_traits_char__, std::ios_base, std::_Iosb_int_
+std::basic_streambuf_char__struct_std::char_traits_char__
+std::ctype_base
+std::ctype_char_: std::ctype_base, std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::error_category
+std::exception
+std::future_error: std::logic_error, std::exception
+std::invalid_argument: std::logic_error, std::exception
+std::ios_base: std::_Iosb_int_
+std::ios_base::failure: std::system_error, std::_System_error, std::runtime_error, stdext::exception
+std::length_error: std::logic_error, std::exception
+std::locale::_Locimp: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::locale::facet
+std::logic_error: std::exception
+std::num_put_char__class_std::ostreambuf_iterator_char__struct_std::char_traits_char___: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::numpunct_char_: std::locale::facet, std::_Facet_base, std::_Crt_new_delete
+std::out_of_range: std::logic_error, std::exception
+std::runtime_error: stdext::exception
+std::system_error: std::_System_error, std::runtime_error, stdext::exception
+stdext::exception
+type_info

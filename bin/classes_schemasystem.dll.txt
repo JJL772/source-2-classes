@@ -1,0 +1,38 @@
+CBaseAppSystem_class_ISchemaSystem_
+CConCommandMemberAccessor_class_CSchemaSystem_: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CSchemaSystem__1: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CConCommandMemberAccessor_class_CSchemaSystem__2: ConCommand, ConCommandBase, ICommandCallback, ICommandCompletionCallback
+CFmtStrN_256__0_
+CPlaceholderConVar: ConVar_1, ConCommandBase, IConVar
+CPlaceholderConVar_1: ConVar_1, ConCommandBase, IConVar
+CPostConnectCallback
+CSchemaInstallCallback: CPostConnectCallback
+CSchemaSystem: CTier2AppSystem_class_ISchemaSystem__0_, CTier1AppSystem_class_ISchemaSystem__0_, CTier0AppSystem_class_ISchemaSystem_, CBaseAppSystem_class_ISchemaSystem_, ISchemaSystem, IAppSystem
+CSchemaSystemTypeScope: ISchemaSystemTypeScope
+CSchemaType
+CSchemaType_Atomic: CSchemaType
+CSchemaType_Atomic_CollectionOfT: CSchemaType_Atomic_T, CSchemaType_Atomic, CSchemaType
+CSchemaType_Atomic_I: CSchemaType_Atomic, CSchemaType
+CSchemaType_Atomic_T: CSchemaType_Atomic, CSchemaType
+CSchemaType_Atomic_TT: CSchemaType_Atomic_T, CSchemaType_Atomic, CSchemaType
+CSchemaType_Bitfield: CSchemaType
+CSchemaType_Builtin: CSchemaType
+CSchemaType_DeclaredClass: CSchemaType
+CSchemaType_DeclaredEnum: CSchemaType
+CSchemaType_FixedArray: CSchemaType
+CSchemaType_NoschemaType: CSchemaType
+CSchemaType_Ptr: CSchemaType
+CTier0AppSystem_class_ISchemaSystem_
+CTier1AppSystem_class_ISchemaSystem__0_
+CTier2AppSystem_class_ISchemaSystem__0_
+ConCommand: ConCommandBase
+ConCommandBase
+ConVar: ConCommandBase, IConVar
+ConVar_1: ConCommandBase, IConVar
+IAppSystem
+ICommandCallback
+ICommandCompletionCallback
+IConVar
+ISchemaSystem
+ISchemaSystemTypeScope
+type_info
